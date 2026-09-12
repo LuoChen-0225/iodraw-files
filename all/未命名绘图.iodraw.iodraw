@@ -28,7 +28,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="P97LCiLaO7WPDfUP0Yi--1" value="感温探测器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="370" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P97LCiLaO7WPDfUP0Yi--37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P97LCiLaO7WPDfUP0Yi--2" target="P97LCiLaO7WPDfUP0Yi--9">
           <mxGeometry relative="1" as="geometry" />
@@ -134,18 +134,22 @@
           <mxGeometry x="707" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P97LCiLaO7WPDfUP0Yi--51" value="风机控制按钮" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="565" y="630" width="160" height="40" as="geometry" />
+          <mxGeometry x="540" y="631.32" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="P97LCiLaO7WPDfUP0Yi--58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.161;entryY=1.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P97LCiLaO7WPDfUP0Yi--51" target="P97LCiLaO7WPDfUP0Yi--46">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.161;entryY=1.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P97LCiLaO7WPDfUP0Yi--51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="659.3199999999999" y="551.88" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="P97LCiLaO7WPDfUP0Yi--60" value="手动启动" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="P97LCiLaO7WPDfUP0Yi--58">
           <mxGeometry x="-0.0388" relative="1" as="geometry">
             <mxPoint y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P97LCiLaO7WPDfUP0Yi--59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.911;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P97LCiLaO7WPDfUP0Yi--51" target="P97LCiLaO7WPDfUP0Yi--42">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.911;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P97LCiLaO7WPDfUP0Yi--51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="579.3199999999999" y="550.0000000000001" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="P97LCiLaO7WPDfUP0Yi--61" value="手动关闭" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="P97LCiLaO7WPDfUP0Yi--59">
           <mxGeometry x="0.0774" y="-4" relative="1" as="geometry">
