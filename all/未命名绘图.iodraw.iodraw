@@ -95,6 +95,9 @@
         <mxCell id="P97LCiLaO7WPDfUP0Yi--31" value="进入30S倒计时" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="282" y="715" width="164" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--40" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="530" y="390" width="154" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
