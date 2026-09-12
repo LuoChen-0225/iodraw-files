@@ -48,8 +48,11 @@
         <mxCell id="P97LCiLaO7WPDfUP0Yi--17" value="&lt;ol&gt;&lt;li&gt;烟感报警&lt;/li&gt;&lt;li&gt;温感报警&lt;/li&gt;&lt;li&gt;可燃气体报警&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="220" y="390" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="P97LCiLaO7WPDfUP0Yi--18" value="&lt;ol&gt;&lt;li&gt;烟感报警&lt;/li&gt;&lt;li&gt;温感报警&lt;/li&gt;&lt;li&gt;可燃气体报警&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="220" y="530" width="120" height="80" as="geometry" />
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--18" value="&lt;ol&gt;&lt;li&gt;烟感+烟感报警&lt;/li&gt;&lt;li&gt;温感报警&lt;/li&gt;&lt;li&gt;可燃气体报警&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="220" y="530" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
