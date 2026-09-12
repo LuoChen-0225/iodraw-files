@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1593" dy="938" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="925" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -35,13 +35,6 @@
         </mxCell>
         <mxCell id="P97LCiLaO7WPDfUP0Yi--37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P97LCiLaO7WPDfUP0Yi--2" target="P97LCiLaO7WPDfUP0Yi--9" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="P97LCiLaO7WPDfUP0Yi--41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P97LCiLaO7WPDfUP0Yi--2" target="P97LCiLaO7WPDfUP0Yi--40" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="555" y="290" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="P97LCiLaO7WPDfUP0Yi--2" value="可燃气体探测器" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="500" y="260" width="120" height="30" as="geometry" />
@@ -143,13 +136,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="P97LCiLaO7WPDfUP0Yi--40" value="可燃气体浓度&lt;div&gt;达到报警阈值&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="480" y="380" width="150" height="80" as="geometry" />
+          <mxGeometry x="490" y="379.34" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="P97LCiLaO7WPDfUP0Yi--42" value="关闭进风排风" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="495" y="510" width="120" height="40" as="geometry" />
+          <mxGeometry x="505" y="509.34" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P97LCiLaO7WPDfUP0Yi--46" value="启动进风、排风" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="630" y="510" width="120" height="40" as="geometry" />
+          <mxGeometry x="640" y="509.34" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P97LCiLaO7WPDfUP0Yi--65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P97LCiLaO7WPDfUP0Yi--50" target="P97LCiLaO7WPDfUP0Yi--63" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -158,11 +151,11 @@
           <mxGeometry x="60" y="260" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P97LCiLaO7WPDfUP0Yi--51" value="风机控制按钮" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="540" y="631.32" width="160" height="40" as="geometry" />
+          <mxGeometry x="550" y="630.6600000000001" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P97LCiLaO7WPDfUP0Yi--58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.161;entryY=1.014;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P97LCiLaO7WPDfUP0Yi--51" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="659.3199999999999" y="551.88" as="targetPoint" />
+            <mxPoint x="669.3199999999999" y="551.22" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="P97LCiLaO7WPDfUP0Yi--60" value="手动启动" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="P97LCiLaO7WPDfUP0Yi--58" vertex="1" connectable="0">
@@ -172,7 +165,7 @@
         </mxCell>
         <mxCell id="P97LCiLaO7WPDfUP0Yi--59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.911;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P97LCiLaO7WPDfUP0Yi--51" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="579.3199999999999" y="550.0000000000001" as="targetPoint" />
+            <mxPoint x="589.3199999999999" y="549.3400000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="P97LCiLaO7WPDfUP0Yi--61" value="手动关闭" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="P97LCiLaO7WPDfUP0Yi--59" vertex="1" connectable="0">
