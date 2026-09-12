@@ -195,8 +195,8 @@
         <mxCell id="P97LCiLaO7WPDfUP0Yi--68" value="终止灭火程序" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="480" y="775" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="P97LCiLaO7WPDfUP0Yi--71" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="290" y="860" width="120" height="60" as="geometry" />
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--71" value="启动灭火装置" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="290" y="860" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
