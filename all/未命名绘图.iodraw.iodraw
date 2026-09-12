@@ -198,14 +198,17 @@
         <mxCell id="P97LCiLaO7WPDfUP0Yi--75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P97LCiLaO7WPDfUP0Yi--71" target="P97LCiLaO7WPDfUP0Yi--74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P97LCiLaO7WPDfUP0Yi--71" target="P97LCiLaO7WPDfUP0Yi--76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="P97LCiLaO7WPDfUP0Yi--71" value="启动灭火装置" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="290" y="860" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P97LCiLaO7WPDfUP0Yi--74" value="上传反馈信号" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="480" y="830" width="120" height="30" as="geometry" />
+          <mxGeometry x="480" y="840" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="P97LCiLaO7WPDfUP0Yi--76" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="480" y="890" width="120" height="30" as="geometry" />
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--76" value="启动放气指示灯" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="880" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
