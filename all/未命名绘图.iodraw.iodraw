@@ -117,11 +117,11 @@
         <mxCell id="P97LCiLaO7WPDfUP0Yi--40" value="可燃气体浓度&lt;div&gt;达到报警阈值&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="547" y="380" width="154" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="P97LCiLaO7WPDfUP0Yi--42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="564" y="505" width="120" height="60" as="geometry" />
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--42" value="关闭进风排风" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="564" y="505" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="P97LCiLaO7WPDfUP0Yi--46" value="启动进风、排风" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="720" y="505" width="120" height="60" as="geometry" />
+          <mxGeometry x="720" y="505" width="120" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
