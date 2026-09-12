@@ -120,7 +120,7 @@
         <mxCell id="P97LCiLaO7WPDfUP0Yi--42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="564" y="505" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="P97LCiLaO7WPDfUP0Yi--46" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--46" value="启动进风、排风" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="720" y="505" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
