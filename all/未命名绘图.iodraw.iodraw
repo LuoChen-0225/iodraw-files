@@ -166,7 +166,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P97LCiLaO7WPDfUP0Yi--63" value="紧急启动按钮" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="60" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="355" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
