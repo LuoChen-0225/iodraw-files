@@ -75,7 +75,7 @@
         <mxCell id="P97LCiLaO7WPDfUP0Yi--29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P97LCiLaO7WPDfUP0Yi--14" target="P97LCiLaO7WPDfUP0Yi--21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="P97LCiLaO7WPDfUP0Yi--32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P97LCiLaO7WPDfUP0Yi--14">
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P97LCiLaO7WPDfUP0Yi--14" target="P97LCiLaO7WPDfUP0Yi--66">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="460" y="680" as="targetPoint" />
           </mxGeometry>
@@ -107,7 +107,7 @@
         <mxCell id="P97LCiLaO7WPDfUP0Yi--26" value="启动警铃" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="90" y="625" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="P97LCiLaO7WPDfUP0Yi--31" value="进入30S倒计时" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--31" value="按下紧急&lt;div&gt;停止按钮&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="270" y="750" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="P97LCiLaO7WPDfUP0Yi--43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P97LCiLaO7WPDfUP0Yi--40" target="P97LCiLaO7WPDfUP0Yi--42">
@@ -170,7 +170,7 @@
         <mxCell id="P97LCiLaO7WPDfUP0Yi--63" value="紧急启动按钮" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="60" y="355" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="P97LCiLaO7WPDfUP0Yi--66" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--66" value="进入30S倒计时" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="290" y="690" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
