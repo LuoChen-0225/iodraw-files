@@ -107,6 +107,14 @@
         <mxCell id="P97LCiLaO7WPDfUP0Yi--26" value="启动警铃" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="90" y="625" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P97LCiLaO7WPDfUP0Yi--31" target="P97LCiLaO7WPDfUP0Yi--68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--70" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="P97LCiLaO7WPDfUP0Yi--69">
+          <mxGeometry x="-0.101" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="P97LCiLaO7WPDfUP0Yi--31" value="按下紧急&lt;div&gt;停止按钮&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="270" y="750" width="160" height="80" as="geometry" />
         </mxCell>
@@ -170,8 +178,14 @@
         <mxCell id="P97LCiLaO7WPDfUP0Yi--63" value="紧急启动按钮" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="60" y="355" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P97LCiLaO7WPDfUP0Yi--66" target="P97LCiLaO7WPDfUP0Yi--31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="P97LCiLaO7WPDfUP0Yi--66" value="进入30S倒计时" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="290" y="690" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--68" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="530" y="760" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
