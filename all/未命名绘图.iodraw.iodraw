@@ -120,7 +120,7 @@
         </mxCell>
         <mxCell id="P97LCiLaO7WPDfUP0Yi--73" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="P97LCiLaO7WPDfUP0Yi--72">
           <mxGeometry x="-0.2529" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-1" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="P97LCiLaO7WPDfUP0Yi--31" value="按下紧急&lt;div&gt;停止按钮&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -202,13 +202,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P97LCiLaO7WPDfUP0Yi--71" value="启动灭火装置" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="290" y="860" width="120" height="30" as="geometry" />
+          <mxGeometry x="290" y="880" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P97LCiLaO7WPDfUP0Yi--74" value="上传反馈信号" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="480" y="840" width="120" height="30" as="geometry" />
+          <mxGeometry x="480" y="860" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P97LCiLaO7WPDfUP0Yi--76" value="启动放气指示灯" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="480" y="880" width="120" height="30" as="geometry" />
+          <mxGeometry x="480" y="900" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
