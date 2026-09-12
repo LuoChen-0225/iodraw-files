@@ -115,6 +115,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P97LCiLaO7WPDfUP0Yi--31" target="P97LCiLaO7WPDfUP0Yi--71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--73" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="P97LCiLaO7WPDfUP0Yi--72">
+          <mxGeometry x="-0.2529" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="P97LCiLaO7WPDfUP0Yi--31" value="按下紧急&lt;div&gt;停止按钮&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="270" y="750" width="160" height="80" as="geometry" />
         </mxCell>
@@ -186,6 +194,9 @@
         </mxCell>
         <mxCell id="P97LCiLaO7WPDfUP0Yi--68" value="终止灭火程序" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="480" y="775" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--71" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="290" y="860" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
