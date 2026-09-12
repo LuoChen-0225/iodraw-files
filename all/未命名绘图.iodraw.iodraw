@@ -184,7 +184,7 @@
         <mxCell id="P97LCiLaO7WPDfUP0Yi--66" value="进入30S倒计时" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="290" y="690" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="P97LCiLaO7WPDfUP0Yi--68" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--68" value="终止灭火程序" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="530" y="760" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
