@@ -202,7 +202,7 @@
           <mxGeometry x="290" y="860" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P97LCiLaO7WPDfUP0Yi--74" value="反馈" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="490" y="860" width="120" height="30" as="geometry" />
+          <mxGeometry x="480" y="830" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
