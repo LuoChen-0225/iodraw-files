@@ -201,8 +201,11 @@
         <mxCell id="P97LCiLaO7WPDfUP0Yi--71" value="启动灭火装置" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="290" y="860" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="P97LCiLaO7WPDfUP0Yi--74" value="反馈" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--74" value="上传反馈信号" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="480" y="830" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--76" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="890" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
