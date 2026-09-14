@@ -90,8 +90,8 @@
         <mxCell id="BeytETVyXn9hcJ68x8Zp-29" value="烟感+温感报警" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="515" width="86" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BeytETVyXn9hcJ68x8Zp-30" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="670" y="470" width="60" height="30" as="geometry" />
+        <mxCell id="BeytETVyXn9hcJ68x8Zp-30" value="电池舱温度达到95℃" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="460" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
