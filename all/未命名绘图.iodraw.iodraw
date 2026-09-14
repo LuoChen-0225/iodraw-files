@@ -87,6 +87,9 @@
         <mxCell id="BeytETVyXn9hcJ68x8Zp-27" value="1、烟感报警&lt;div&gt;2、温感报警&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="420" y="440" width="86" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="BeytETVyXn9hcJ68x8Zp-29" value="烟感+温感报警" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="515" width="86" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
