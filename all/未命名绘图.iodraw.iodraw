@@ -60,7 +60,7 @@
         <mxCell id="BeytETVyXn9hcJ68x8Zp-18" value="启动气溶胶" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BeytETVyXn9hcJ68x8Zp-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BeytETVyXn9hcJ68x8Zp-19" value="反馈启动信号至BMS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="680" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
