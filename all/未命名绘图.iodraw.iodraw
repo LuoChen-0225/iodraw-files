@@ -45,7 +45,7 @@
         <mxCell id="BeytETVyXn9hcJ68x8Zp-7" value="上传一级报警至BMS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BeytETVyXn9hcJ68x8Zp-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BeytETVyXn9hcJ68x8Zp-10" value="气溶胶灭火装置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BeytETVyXn9hcJ68x8Zp-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.561;entryY=0.055;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BeytETVyXn9hcJ68x8Zp-1" target="BeytETVyXn9hcJ68x8Zp-3">
@@ -53,6 +53,9 @@
         </mxCell>
         <mxCell id="BeytETVyXn9hcJ68x8Zp-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BeytETVyXn9hcJ68x8Zp-2" target="BeytETVyXn9hcJ68x8Zp-4">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BeytETVyXn9hcJ68x8Zp-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
