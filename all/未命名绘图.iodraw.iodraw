@@ -39,6 +39,9 @@
         <mxCell id="BeytETVyXn9hcJ68x8Zp-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BeytETVyXn9hcJ68x8Zp-5" target="BeytETVyXn9hcJ68x8Zp-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="BeytETVyXn9hcJ68x8Zp-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BeytETVyXn9hcJ68x8Zp-5" target="BeytETVyXn9hcJ68x8Zp-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BeytETVyXn9hcJ68x8Zp-5" value="二级报警" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="550" width="120" height="20" as="geometry" />
         </mxCell>
@@ -46,7 +49,7 @@
           <mxGeometry x="200" y="410" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="BeytETVyXn9hcJ68x8Zp-7" value="上传一级报警至BMS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="550" width="120" height="20" as="geometry" />
+          <mxGeometry x="200" y="570" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="BeytETVyXn9hcJ68x8Zp-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BeytETVyXn9hcJ68x8Zp-10" target="BeytETVyXn9hcJ68x8Zp-17">
           <mxGeometry relative="1" as="geometry" />
@@ -77,6 +80,9 @@
         </mxCell>
         <mxCell id="BeytETVyXn9hcJ68x8Zp-23" value="启动声光报警器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="450" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BeytETVyXn9hcJ68x8Zp-25" value="启动声光报警器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="530" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
