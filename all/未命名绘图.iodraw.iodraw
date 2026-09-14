@@ -16,10 +16,18 @@
         <mxCell id="BeytETVyXn9hcJ68x8Zp-2" value="感温探测器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="370" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="BeytETVyXn9hcJ68x8Zp-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BeytETVyXn9hcJ68x8Zp-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="BeytETVyXn9hcJ68x8Zp-3" value="感烟探测器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BeytETVyXn9hcJ68x8Zp-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BeytETVyXn9hcJ68x8Zp-4" target="BeytETVyXn9hcJ68x8Zp-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BeytETVyXn9hcJ68x8Zp-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BeytETVyXn9hcJ68x8Zp-4" target="BeytETVyXn9hcJ68x8Zp-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BeytETVyXn9hcJ68x8Zp-4" value="一级报警" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -43,7 +51,7 @@
         <mxCell id="BeytETVyXn9hcJ68x8Zp-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.561;entryY=0.055;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BeytETVyXn9hcJ68x8Zp-1" target="BeytETVyXn9hcJ68x8Zp-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BeytETVyXn9hcJ68x8Zp-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.543;entryY=0.019;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BeytETVyXn9hcJ68x8Zp-2" target="BeytETVyXn9hcJ68x8Zp-4">
+        <mxCell id="BeytETVyXn9hcJ68x8Zp-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BeytETVyXn9hcJ68x8Zp-2" target="BeytETVyXn9hcJ68x8Zp-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
