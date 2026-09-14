@@ -31,6 +31,9 @@
         <mxCell id="BeytETVyXn9hcJ68x8Zp-7" value="上传一级报警至BMS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="640" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="BeytETVyXn9hcJ68x8Zp-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
