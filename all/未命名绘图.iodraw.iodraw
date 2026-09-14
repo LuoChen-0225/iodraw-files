@@ -84,8 +84,8 @@
         <mxCell id="BeytETVyXn9hcJ68x8Zp-25" value="启动声光报警器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="510" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="BeytETVyXn9hcJ68x8Zp-27" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="354" y="620" width="60" height="30" as="geometry" />
+        <mxCell id="BeytETVyXn9hcJ68x8Zp-27" value="1、烟感报警&lt;div&gt;2、温感报警&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="354" y="620" width="86" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
