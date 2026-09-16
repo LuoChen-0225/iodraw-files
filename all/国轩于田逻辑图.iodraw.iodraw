@@ -68,7 +68,7 @@
           <mxGeometry x="240" y="1040" width="1200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v9WAkyrxxxah50e8SScM-22" value="人工按下报警控制器启动按钮" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="300" y="1140" width="120" height="60" as="geometry" />
+          <mxGeometry x="1510" y="785" width="120" height="170" as="geometry" />
         </mxCell>
         <mxCell id="v9WAkyrxxxah50e8SScM-24" value="延时30S" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="530" y="1100" width="120" height="260" as="geometry" />
