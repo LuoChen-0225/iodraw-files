@@ -59,6 +59,9 @@
         <mxCell id="v9WAkyrxxxah50e8SScM-7" value="系统一级报警" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="240" y="420" width="1200" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="07pGSimE0IsCB_JIeMIj-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="v9WAkyrxxxah50e8SScM-8" target="v9WAkyrxxxah50e8SScM-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="v9WAkyrxxxah50e8SScM-8" value="任一气体探测器低报+另一气体探测器高报" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="640" y="590" width="400" height="40" as="geometry" />
         </mxCell>
@@ -67,6 +70,9 @@
         </mxCell>
         <mxCell id="v9WAkyrxxxah50e8SScM-10" value="任一温感+另任一温感动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1160" y="590" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="07pGSimE0IsCB_JIeMIj-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="v9WAkyrxxxah50e8SScM-11" target="07pGSimE0IsCB_JIeMIj-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v9WAkyrxxxah50e8SScM-11" value="系统二级报警" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="240" y="680" width="1200" height="40" as="geometry" />
@@ -102,6 +108,13 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="380" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="07pGSimE0IsCB_JIeMIj-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="v9WAkyrxxxah50e8SScM-20" target="v9WAkyrxxxah50e8SScM-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1300" y="530" />
             </Array>
           </mxGeometry>
         </mxCell>
