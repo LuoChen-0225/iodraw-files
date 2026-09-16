@@ -23,7 +23,7 @@
           <mxGeometry x="770" y="320" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v9WAkyrxxxah50e8SScM-7" value="系统一级报警" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="250" y="450" width="710" height="40" as="geometry" />
+          <mxGeometry x="250" y="420" width="710" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v9WAkyrxxxah50e8SScM-8" value="任一气体探测器低报+另一气体探测器高报" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="250" y="590" width="200" height="60" as="geometry" />
@@ -58,8 +58,11 @@
         <mxCell id="v9WAkyrxxxah50e8SScM-18" value="紧急启停按钮动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1280" y="840" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v9WAkyrxxxah50e8SScM-19" value="系统二级报警" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="260" y="730" width="710" height="40" as="geometry" />
+        <mxCell id="v9WAkyrxxxah50e8SScM-19" value="系统三级报警" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="250" y="970" width="710" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="v9WAkyrxxxah50e8SScM-20" value="系统一级报警" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="260" y="430" width="710" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
