@@ -10,14 +10,11 @@
         <mxCell id="dzyMJrT3vzNhveZU4A-8-1" value="火情" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="420" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dzyMJrT3vzNhveZU4A-8-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dzyMJrT3vzNhveZU4A-8-2" target="dzyMJrT3vzNhveZU4A-8-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="dzyMJrT3vzNhveZU4A-8-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dzyMJrT3vzNhveZU4A-8-2" target="dzyMJrT3vzNhveZU4A-8-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dzyMJrT3vzNhveZU4A-8-2" value="复合探测器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="560" width="120" height="40" as="geometry" />
+          <mxGeometry x="280" y="500" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dzyMJrT3vzNhveZU4A-8-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dzyMJrT3vzNhveZU4A-8-3" target="dzyMJrT3vzNhveZU4A-8-5">
           <mxGeometry relative="1" as="geometry" />
@@ -104,6 +101,9 @@
         </mxCell>
         <mxCell id="dzyMJrT3vzNhveZU4A-8-34" value="反馈至BMS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="1080" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dzyMJrT3vzNhveZU4A-8-38" value="复合探测器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="560" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
