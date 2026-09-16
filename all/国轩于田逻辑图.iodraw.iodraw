@@ -1,126 +1,126 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="BLUCRmBGI7dY7u82aowl">
-    <mxGraphModel dx="2607" dy="1535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1793" dy="1055" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="v9WAkyrxxxah50e8SScM-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="v9WAkyrxxxah50e8SScM-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="770" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v9WAkyrxxxah50e8SScM-2" value="实时显示数据" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="v9WAkyrxxxah50e8SScM-2" value="实时显示数据" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="240" y="200" width="1200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="v9WAkyrxxxah50e8SScM-3" value="任一烟感动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="v9WAkyrxxxah50e8SScM-3" value="任一烟感动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="240" y="320" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="v9WAkyrxxxah50e8SScM-4" value="任一温感动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="v9WAkyrxxxah50e8SScM-4" value="任一温感动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="560" y="320" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="v9WAkyrxxxah50e8SScM-5" value="手报动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="v9WAkyrxxxah50e8SScM-5" value="手报动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="880" y="320" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="v9WAkyrxxxah50e8SScM-6" value="任一气体探测器低报" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="v9WAkyrxxxah50e8SScM-6" value="任一气体探测器低报" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1200" y="320" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="v9WAkyrxxxah50e8SScM-7" value="系统一级报警" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="v9WAkyrxxxah50e8SScM-7" value="系统一级报警" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="240" y="420" width="1200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="v9WAkyrxxxah50e8SScM-8" value="任一气体探测器低报+另一气体探测器高报" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="v9WAkyrxxxah50e8SScM-8" value="任一气体探测器低报+另一气体探测器高报" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="640" y="590" width="400" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="v9WAkyrxxxah50e8SScM-9" value="任一烟感+另任一烟感动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="v9WAkyrxxxah50e8SScM-9" value="任一烟感+另任一烟感动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="240" y="590" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="v9WAkyrxxxah50e8SScM-10" value="任一温感+另任一温感动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="v9WAkyrxxxah50e8SScM-10" value="任一温感+另任一温感动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1160" y="590" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="v9WAkyrxxxah50e8SScM-11" value="系统二级报警" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="v9WAkyrxxxah50e8SScM-11" value="系统二级报警" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="240" y="720" width="1200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="v9WAkyrxxxah50e8SScM-12" value="任一烟感+任一温感动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="v9WAkyrxxxah50e8SScM-12" value="任一烟感+任一温感动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="240" y="840" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v9WAkyrxxxah50e8SScM-13" value="任一温感动作+手报动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="v9WAkyrxxxah50e8SScM-13" value="任一温感动作+手报动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="400" y="840" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v9WAkyrxxxah50e8SScM-14" value="任一烟感动作+手报动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="v9WAkyrxxxah50e8SScM-14" value="任一烟感动作+手报动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="560" y="840" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v9WAkyrxxxah50e8SScM-15" value="任一气体探测器高报+手报动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="v9WAkyrxxxah50e8SScM-15" value="任一气体探测器高报+手报动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="720" y="840" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v9WAkyrxxxah50e8SScM-16" value="任一气体探测器高报+任一烟感动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="v9WAkyrxxxah50e8SScM-16" value="任一气体探测器高报+任一烟感动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="890" y="840" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v9WAkyrxxxah50e8SScM-17" value="任一气体探测器高报+任一温感动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="v9WAkyrxxxah50e8SScM-17" value="任一气体探测器高报+任一温感动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1080" y="840" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v9WAkyrxxxah50e8SScM-18" value="紧急启停按钮动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="v9WAkyrxxxah50e8SScM-18" value="紧急启停按钮动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1270" y="840" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v9WAkyrxxxah50e8SScM-19" value="系统三级报警" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="v9WAkyrxxxah50e8SScM-19" value="系统三级报警" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="240" y="970" width="1200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="v9WAkyrxxxah50e8SScM-20" value="声光报警启动、" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="v9WAkyrxxxah50e8SScM-20" value="声光报警启动、" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="240" y="490" width="1200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="v9WAkyrxxxah50e8SScM-21" value="声光报警启动、放气勿入指示灯启动、排风系统关闭" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="v9WAkyrxxxah50e8SScM-21" value="声光报警启动、放气勿入指示灯启动、排风系统关闭" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="240" y="1040" width="1200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="v9WAkyrxxxah50e8SScM-22" value="人工按下报警控制器启动按钮" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="v9WAkyrxxxah50e8SScM-22" value="人工按下报警控制器启动按钮" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="420" y="1190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v9WAkyrxxxah50e8SScM-23" value="舱外紧急启动按钮按下" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="v9WAkyrxxxah50e8SScM-23" value="舱外紧急启动按钮按下" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="420" y="1270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v9WAkyrxxxah50e8SScM-24" value="延时30S" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="v9WAkyrxxxah50e8SScM-24" value="延时30S" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="590" y="1220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v9WAkyrxxxah50e8SScM-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="v9WAkyrxxxah50e8SScM-25" target="v9WAkyrxxxah50e8SScM-26">
+        <mxCell id="v9WAkyrxxxah50e8SScM-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="v9WAkyrxxxah50e8SScM-25" target="v9WAkyrxxxah50e8SScM-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="v9WAkyrxxxah50e8SScM-25" value="按程控策略释放灭火剂" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="v9WAkyrxxxah50e8SScM-25" value="按程控策略释放灭火剂" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="720" y="1170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v9WAkyrxxxah50e8SScM-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="v9WAkyrxxxah50e8SScM-26" target="v9WAkyrxxxah50e8SScM-29">
+        <mxCell id="v9WAkyrxxxah50e8SScM-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="v9WAkyrxxxah50e8SScM-26" target="v9WAkyrxxxah50e8SScM-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="v9WAkyrxxxah50e8SScM-32" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" vertex="1" connectable="0" parent="v9WAkyrxxxah50e8SScM-30">
+        <mxCell id="v9WAkyrxxxah50e8SScM-32" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" parent="v9WAkyrxxxah50e8SScM-30" vertex="1" connectable="0">
           <mxGeometry x="0.0118" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="v9WAkyrxxxah50e8SScM-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="v9WAkyrxxxah50e8SScM-26" target="v9WAkyrxxxah50e8SScM-27">
+        <mxCell id="v9WAkyrxxxah50e8SScM-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="v9WAkyrxxxah50e8SScM-26" target="v9WAkyrxxxah50e8SScM-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="v9WAkyrxxxah50e8SScM-41" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" vertex="1" connectable="0" parent="v9WAkyrxxxah50e8SScM-33">
+        <mxCell id="v9WAkyrxxxah50e8SScM-41" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" parent="v9WAkyrxxxah50e8SScM-33" vertex="1" connectable="0">
           <mxGeometry x="-0.0421" y="-2" relative="1" as="geometry">
             <mxPoint x="2" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="v9WAkyrxxxah50e8SScM-26" value="灭火剂多次喷射耗尽" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="v9WAkyrxxxah50e8SScM-26" value="灭火剂多次喷射耗尽" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="920" y="1160" width="320" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="v9WAkyrxxxah50e8SScM-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="v9WAkyrxxxah50e8SScM-27" target="v9WAkyrxxxah50e8SScM-29">
+        <mxCell id="v9WAkyrxxxah50e8SScM-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="v9WAkyrxxxah50e8SScM-27" target="v9WAkyrxxxah50e8SScM-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="v9WAkyrxxxah50e8SScM-36" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" vertex="1" connectable="0" parent="v9WAkyrxxxah50e8SScM-35">
+        <mxCell id="v9WAkyrxxxah50e8SScM-36" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" parent="v9WAkyrxxxah50e8SScM-35" vertex="1" connectable="0">
           <mxGeometry x="-0.006" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="v9WAkyrxxxah50e8SScM-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="v9WAkyrxxxah50e8SScM-27" target="v9WAkyrxxxah50e8SScM-25">
+        <mxCell id="v9WAkyrxxxah50e8SScM-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="v9WAkyrxxxah50e8SScM-27" target="v9WAkyrxxxah50e8SScM-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="v9WAkyrxxxah50e8SScM-39" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" vertex="1" connectable="0" parent="v9WAkyrxxxah50e8SScM-38">
+        <mxCell id="v9WAkyrxxxah50e8SScM-39" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" parent="v9WAkyrxxxah50e8SScM-38" vertex="1" connectable="0">
           <mxGeometry x="0.0497" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="v9WAkyrxxxah50e8SScM-27" value="紧急停止是否按下" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="v9WAkyrxxxah50e8SScM-27" value="紧急停止是否按下" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="920" y="1320" width="320" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="v9WAkyrxxxah50e8SScM-29" value="停止" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="v9WAkyrxxxah50e8SScM-29" value="停止" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1320" y="1170" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
