@@ -121,7 +121,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="v9WAkyrxxxah50e8SScM-20" value="声光报警启动、启动排风系统、通过485通讯上传三级告警信号至BMS" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="v9WAkyrxxxah50e8SScM-20" value="声光报警启动、启动排风系统（仅气体探测器参与报警时）、通过485通讯上传三级告警信号至BMS" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="240" y="490" width="1200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="07pGSimE0IsCB_JIeMIj-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="v9WAkyrxxxah50e8SScM-21" target="v9WAkyrxxxah50e8SScM-24" edge="1">
@@ -302,10 +302,10 @@
         <mxCell id="07pGSimE0IsCB_JIeMIj-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="07pGSimE0IsCB_JIeMIj-55" target="07pGSimE0IsCB_JIeMIj-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wiNM0zgTKKIq_hSD18aO-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.116;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="v9WAkyrxxxah50e8SScM-9" target="v9WAkyrxxxah50e8SScM-11">
+        <mxCell id="wiNM0zgTKKIq_hSD18aO-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.116;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="v9WAkyrxxxah50e8SScM-9" target="v9WAkyrxxxah50e8SScM-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wiNM0zgTKKIq_hSD18aO-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.883;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="v9WAkyrxxxah50e8SScM-10" target="v9WAkyrxxxah50e8SScM-11">
+        <mxCell id="wiNM0zgTKKIq_hSD18aO-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.883;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="v9WAkyrxxxah50e8SScM-10" target="v9WAkyrxxxah50e8SScM-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
