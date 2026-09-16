@@ -25,11 +25,6 @@
         <mxCell id="dzyMJrT3vzNhveZU4A-8-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dzyMJrT3vzNhveZU4A-8-3" target="dzyMJrT3vzNhveZU4A-8-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dzyMJrT3vzNhveZU4A-8-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="dzyMJrT3vzNhveZU4A-8-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="480" y="700.2727272727273" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="dzyMJrT3vzNhveZU4A-8-3" value="一级报警" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="680" width="120" height="40" as="geometry" />
         </mxCell>
@@ -84,7 +79,7 @@
           <mxGeometry x="120" y="950" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dzyMJrT3vzNhveZU4A-8-23" value="1、CO浓度≥240ppm&lt;div&gt;2、H&lt;sub&gt;2&lt;/sub&gt;浓度&lt;span style=&quot;background-color: initial;&quot;&gt;≥500ppm&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3、温度≥75℃&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="610" width="160" height="60" as="geometry" />
+          <mxGeometry x="360" y="610" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dzyMJrT3vzNhveZU4A-8-24" value="1、CO浓度≥600ppm且烟雾浓度≥0.4&lt;span style=&quot;font-family: 宋体; font-size: 10pt;&quot;&gt;dB/m&lt;/span&gt;&lt;div&gt;2、H&lt;sub&gt;2&lt;/sub&gt;浓度&lt;span style=&quot;background-color: initial;&quot;&gt;≥700ppm&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;且烟雾浓度≥0.4&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 宋体; font-size: 10pt;&quot;&gt;dB/m&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3、温度≥80℃&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="730" width="230" height="60" as="geometry" />
@@ -94,6 +89,9 @@
         </mxCell>
         <mxCell id="dzyMJrT3vzNhveZU4A-8-27" value="启动灭火装置&lt;div&gt;关闭进、排风阀&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="1000" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dzyMJrT3vzNhveZU4A-8-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="640" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
