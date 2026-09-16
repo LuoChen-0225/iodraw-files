@@ -65,13 +65,20 @@
           <mxGeometry x="240" y="490" width="1200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="07pGSimE0IsCB_JIeMIj-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="v9WAkyrxxxah50e8SScM-21" target="v9WAkyrxxxah50e8SScM-24">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="1040" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="v9WAkyrxxxah50e8SScM-21" value="声光报警启动、关闭排风系统、上传一级告警信号至BMS，输出&lt;span style=&quot;background-color: initial;&quot;&gt;消防二级、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;三级消防信号&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="240" y="1000" width="1200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v9WAkyrxxxah50e8SScM-22" value="按下报警控制器启动按钮" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1310" y="840" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="07pGSimE0IsCB_JIeMIj-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="v9WAkyrxxxah50e8SScM-24" target="v9WAkyrxxxah50e8SScM-27">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v9WAkyrxxxah50e8SScM-24" value="延时30S" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="240" y="1120" width="380" height="60" as="geometry" />
