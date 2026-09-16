@@ -64,7 +64,7 @@
         <mxCell id="v9WAkyrxxxah50e8SScM-20" value="声光报警启动、" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="250" y="490" width="710" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="v9WAkyrxxxah50e8SScM-21" value="系统三级报警" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="v9WAkyrxxxah50e8SScM-21" value="声光报警启动、放气勿入指示灯启动、排风系统关闭" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="250" y="1040" width="710" height="40" as="geometry" />
         </mxCell>
       </root>
