@@ -74,32 +74,16 @@
           <mxGeometry x="240" y="1090" width="380" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v9WAkyrxxxah50e8SScM-25" value="按程控策略释放灭火剂" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="860" y="1230" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="v9WAkyrxxxah50e8SScM-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="v9WAkyrxxxah50e8SScM-26" target="v9WAkyrxxxah50e8SScM-29" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="v9WAkyrxxxah50e8SScM-32" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" parent="v9WAkyrxxxah50e8SScM-30" vertex="1" connectable="0">
-          <mxGeometry x="0.0118" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+          <mxGeometry x="940" y="1090" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v9WAkyrxxxah50e8SScM-26" value="灭火剂多次喷射耗尽" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1250" y="1240" width="240" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="v9WAkyrxxxah50e8SScM-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="v9WAkyrxxxah50e8SScM-27" target="v9WAkyrxxxah50e8SScM-25" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="v9WAkyrxxxah50e8SScM-39" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" parent="v9WAkyrxxxah50e8SScM-38" vertex="1" connectable="0">
-          <mxGeometry x="0.0497" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+          <mxGeometry x="1120" y="1080" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="v9WAkyrxxxah50e8SScM-27" value="紧急停止是否按下" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="640" y="1080" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="v9WAkyrxxxah50e8SScM-29" value="停止" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="970" y="1330" width="120" height="60" as="geometry" />
+          <mxGeometry x="920" y="1190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="07pGSimE0IsCB_JIeMIj-2" value="声光报警启动、启动排风系统、通过485通讯上传二级告警信号至BMS，输出&lt;span style=&quot;background-color: initial;&quot;&gt;消防二级、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;三级消防信号&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="240" y="760" width="1200" height="40" as="geometry" />
