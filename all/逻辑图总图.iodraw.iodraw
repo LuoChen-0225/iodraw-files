@@ -10,17 +10,29 @@
         <mxCell id="dzyMJrT3vzNhveZU4A-8-1" value="火情" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="480" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="dzyMJrT3vzNhveZU4A-8-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dzyMJrT3vzNhveZU4A-8-2" target="dzyMJrT3vzNhveZU4A-8-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dzyMJrT3vzNhveZU4A-8-2" value="复合探测器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="560" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="dzyMJrT3vzNhveZU4A-8-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dzyMJrT3vzNhveZU4A-8-3" target="dzyMJrT3vzNhveZU4A-8-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dzyMJrT3vzNhveZU4A-8-3" value="一级报警" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dzyMJrT3vzNhveZU4A-8-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dzyMJrT3vzNhveZU4A-8-5" target="dzyMJrT3vzNhveZU4A-8-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dzyMJrT3vzNhveZU4A-8-5" value="二级报警" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="800" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dzyMJrT3vzNhveZU4A-8-6" value="三级报警" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="920" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dzyMJrT3vzNhveZU4A-8-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="680" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
