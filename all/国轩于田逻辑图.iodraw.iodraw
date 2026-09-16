@@ -77,7 +77,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v9WAkyrxxxah50e8SScM-25" value="按程控策略释放灭火剂" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="780" y="1090" width="120" height="60" as="geometry" />
+          <mxGeometry x="860" y="1230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v9WAkyrxxxah50e8SScM-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="v9WAkyrxxxah50e8SScM-26" target="v9WAkyrxxxah50e8SScM-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -96,7 +96,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="v9WAkyrxxxah50e8SScM-26" value="灭火剂多次喷射耗尽" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="920" y="1080" width="320" height="80" as="geometry" />
+          <mxGeometry x="920" y="1080" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="v9WAkyrxxxah50e8SScM-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="v9WAkyrxxxah50e8SScM-27" target="v9WAkyrxxxah50e8SScM-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -115,7 +115,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="v9WAkyrxxxah50e8SScM-27" value="紧急停止是否按下" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="920" y="1330" width="240" height="80" as="geometry" />
+          <mxGeometry x="640" y="1080" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="v9WAkyrxxxah50e8SScM-29" value="停止" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1320" y="1090" width="120" height="60" as="geometry" />
