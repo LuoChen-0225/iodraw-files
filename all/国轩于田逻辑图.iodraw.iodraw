@@ -26,7 +26,10 @@
           <mxGeometry x="250" y="450" width="710" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v9WAkyrxxxah50e8SScM-8" value="任一气体探测器低报+另一气体探测器高报" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="250" y="584.5" width="170" height="65.5" as="geometry" />
+          <mxGeometry x="250" y="584.5" width="170" height="95.5" as="geometry" />
+        </mxCell>
+        <mxCell id="v9WAkyrxxxah50e8SScM-9" value="任一气体探测器低报+另一气体探测器高报" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="440" y="584" width="170" height="95.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
