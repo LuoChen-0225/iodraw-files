@@ -61,7 +61,7 @@
         <mxCell id="v9WAkyrxxxah50e8SScM-19" value="系统三级报警" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="240" y="970" width="1200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="v9WAkyrxxxah50e8SScM-20" value="声光报警启动、启动排风系统、上传三级告警信号至BMS" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="v9WAkyrxxxah50e8SScM-20" value="声光报警启动、启动排风系统、通过485通讯上传三级告警信号至BMS" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="240" y="490" width="1200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v9WAkyrxxxah50e8SScM-21" value="声光报警启动、关闭排风系统、上传一级告警信号至BMS" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
