@@ -26,10 +26,10 @@
           <mxGeometry x="240" y="420" width="1200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v9WAkyrxxxah50e8SScM-8" value="任一气体探测器低报+另一气体探测器高报" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="620" y="590" width="410" height="60" as="geometry" />
+          <mxGeometry x="640" y="590" width="400" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v9WAkyrxxxah50e8SScM-9" value="任一烟感+另任一烟感动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="80" y="590" width="200" height="60" as="geometry" />
+          <mxGeometry x="140" y="590" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v9WAkyrxxxah50e8SScM-10" value="任一温感+另任一温感动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1170" y="590" width="260" height="60" as="geometry" />
