@@ -35,7 +35,7 @@
           <mxGeometry x="1160" y="590" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v9WAkyrxxxah50e8SScM-11" value="系统二级报警" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="240" y="720" width="1200" height="40" as="geometry" />
+          <mxGeometry x="240" y="680" width="1200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v9WAkyrxxxah50e8SScM-12" value="任一烟感+任一温感动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="240" y="840" width="140" height="60" as="geometry" />
@@ -122,6 +122,9 @@
         </mxCell>
         <mxCell id="v9WAkyrxxxah50e8SScM-29" value="停止" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1320" y="1170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="07pGSimE0IsCB_JIeMIj-2" value="声光报警启动、启动风机、上传三级告警信号至BMS" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="240" y="760" width="1200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
