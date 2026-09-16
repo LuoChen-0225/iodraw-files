@@ -14,13 +14,13 @@
           <mxGeometry x="240" y="320" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v9WAkyrxxxah50e8SScM-4" value="任一温感动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="400" y="320" width="140" height="40" as="geometry" />
+          <mxGeometry x="400" y="320" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v9WAkyrxxxah50e8SScM-5" value="手报动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="820" y="320" width="300" height="40" as="geometry" />
+          <mxGeometry x="880" y="320" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v9WAkyrxxxah50e8SScM-6" value="任一气体探测器低报" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1250" y="320" width="190" height="40" as="geometry" />
+          <mxGeometry x="1200" y="320" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v9WAkyrxxxah50e8SScM-7" value="系统一级报警" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="240" y="420" width="1200" height="40" as="geometry" />
