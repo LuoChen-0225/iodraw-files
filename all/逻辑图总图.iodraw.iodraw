@@ -97,10 +97,10 @@
           <mxGeometry x="280" y="1000" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dzyMJrT3vzNhveZU4A-8-31" value="启动进、排风阀" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="680" width="120" height="40" as="geometry" />
+          <mxGeometry x="520" y="680" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dzyMJrT3vzNhveZU4A-8-33" value="1、CO浓度≥240ppm&lt;div&gt;2、H&lt;sub&gt;2&lt;/sub&gt;浓度&lt;span style=&quot;background-color: initial;&quot;&gt;≥500ppm&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="610" y="620" width="160" height="60" as="geometry" />
+          <mxGeometry x="600" y="620" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dzyMJrT3vzNhveZU4A-8-34" value="反馈至BMS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="1080" width="120" height="40" as="geometry" />
