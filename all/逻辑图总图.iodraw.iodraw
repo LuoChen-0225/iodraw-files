@@ -31,7 +31,7 @@
         <mxCell id="dzyMJrT3vzNhveZU4A-8-6" value="三级报警" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="920" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dzyMJrT3vzNhveZU4A-8-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dzyMJrT3vzNhveZU4A-8-11" value="上传报警信号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="680" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
