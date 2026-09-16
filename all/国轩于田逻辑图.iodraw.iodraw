@@ -8,7 +8,7 @@
           <mxGeometry x="545" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v9WAkyrxxxah50e8SScM-2" value="实时显示数据" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="250" y="200" width="1210" height="40" as="geometry" />
+          <mxGeometry x="250" y="200" width="1200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v9WAkyrxxxah50e8SScM-3" value="任一烟感动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="250" y="320" width="140" height="40" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="770" y="320" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v9WAkyrxxxah50e8SScM-7" value="系统一级报警" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="250" y="420" width="710" height="40" as="geometry" />
+          <mxGeometry x="250" y="420" width="1200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v9WAkyrxxxah50e8SScM-8" value="任一气体探测器低报+另一气体探测器高报" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="250" y="590" width="200" height="60" as="geometry" />
@@ -62,7 +62,7 @@
           <mxGeometry x="250" y="970" width="710" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v9WAkyrxxxah50e8SScM-20" value="声光报警启动、" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="250" y="490" width="710" height="40" as="geometry" />
+          <mxGeometry x="250" y="490" width="1200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v9WAkyrxxxah50e8SScM-21" value="声光报警启动、放气勿入指示灯启动、排风系统关闭" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="250" y="1040" width="710" height="40" as="geometry" />
