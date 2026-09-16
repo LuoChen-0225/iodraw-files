@@ -82,6 +82,9 @@
         <mxCell id="v9WAkyrxxxah50e8SScM-26" value="灭火剂多次喷射耗尽" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="1140" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="v9WAkyrxxxah50e8SScM-27" value="紧急停止是否按下" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1240" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
