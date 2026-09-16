@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="BLUCRmBGI7dY7u82aowl">
-    <mxGraphModel dx="1456" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3728" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,22 +67,22 @@
         <mxCell id="v9WAkyrxxxah50e8SScM-21" value="声光报警启动、放气勿入指示灯启动、排风系统关闭" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="240" y="1040" width="1200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="v9WAkyrxxxah50e8SScM-22" value="人工按下报警控制器启动按钮&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E7%B3%BB%E7%BB%9F%E4%B8%89%E7%BA%A7%E6%8A%A5%E8%AD%A6%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfontSize%3D20%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22250%22%20y%3D%22970%22%20width%3D%22710%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="v9WAkyrxxxah50e8SScM-22" value="人工按下报警控制器启动按钮&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 20px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E7%B3%BB%E7%BB%9F%E4%B8%89%E7%BA%A7%E6%8A%A5%E8%AD%A6%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfontSize%3D20%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22250%22%20y%3D%22970%22%20width%3D%22710%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="240" y="1120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v9WAkyrxxxah50e8SScM-23" value="舱外紧急启动按钮按下" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="v9WAkyrxxxah50e8SScM-23" value="舱外紧急启动按钮按下" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="240" y="1200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v9WAkyrxxxah50e8SScM-24" value="延时30S" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="v9WAkyrxxxah50e8SScM-24" value="延时30S" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="410" y="1150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v9WAkyrxxxah50e8SScM-25" value="按程控策略释放灭火剂" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="v9WAkyrxxxah50e8SScM-25" value="按程控策略释放灭火剂" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="570" y="1150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v9WAkyrxxxah50e8SScM-26" value="灭火剂多次喷射耗尽" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="v9WAkyrxxxah50e8SScM-26" value="灭火剂多次喷射耗尽" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="840" y="1130" width="320" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="v9WAkyrxxxah50e8SScM-27" value="紧急停止是否按下" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="v9WAkyrxxxah50e8SScM-27" value="紧急停止是否按下" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="840" y="1300" width="280" height="80" as="geometry" />
         </mxCell>
       </root>
