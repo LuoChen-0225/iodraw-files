@@ -75,7 +75,7 @@
         <mxCell id="dzyMJrT3vzNhveZU4A-8-22" value="启动声光报警" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="950" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dzyMJrT3vzNhveZU4A-8-23" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="dzyMJrT3vzNhveZU4A-8-23" value="1、CO浓度≥240ppm&lt;div&gt;2、H&lt;sub&gt;2&lt;/sub&gt;浓度&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="630" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
