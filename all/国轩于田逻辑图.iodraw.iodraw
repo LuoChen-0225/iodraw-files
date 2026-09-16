@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="BLUCRmBGI7dY7u82aowl">
-    <mxGraphModel dx="574" dy="338" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2390" dy="1407" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v9WAkyrxxxah50e8SScM-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontSize=40;" parent="1" vertex="1">
-          <mxGeometry x="720" y="60" width="240" height="80" as="geometry" />
+          <mxGeometry x="720" y="110" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="07pGSimE0IsCB_JIeMIj-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="v9WAkyrxxxah50e8SScM-2" target="v9WAkyrxxxah50e8SScM-3">
           <mxGeometry relative="1" as="geometry">
@@ -39,7 +39,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="v9WAkyrxxxah50e8SScM-2" value="实时显示数据" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="240" y="200" width="1200" height="40" as="geometry" />
+          <mxGeometry x="240" y="250" width="1200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v9WAkyrxxxah50e8SScM-3" value="任一烟感动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="240" y="320" width="240" height="40" as="geometry" />
@@ -282,6 +282,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="07pGSimE0IsCB_JIeMIj-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.834;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="v9WAkyrxxxah50e8SScM-18" target="v9WAkyrxxxah50e8SScM-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="07pGSimE0IsCB_JIeMIj-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.946;entryY=-0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="v9WAkyrxxxah50e8SScM-22" target="v9WAkyrxxxah50e8SScM-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
