@@ -10,11 +10,8 @@
         <mxCell id="dzyMJrT3vzNhveZU4A-8-2" value="复合探测器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="560" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dzyMJrT3vzNhveZU4A-8-3" value="复合探测器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dzyMJrT3vzNhveZU4A-8-3" value="一级报警" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="640" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="dzyMJrT3vzNhveZU4A-8-4" value="复合探测器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="580" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
