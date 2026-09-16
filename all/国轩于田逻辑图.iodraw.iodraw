@@ -29,10 +29,10 @@
           <mxGeometry x="250" y="584.5" width="140" height="95.5" as="geometry" />
         </mxCell>
         <mxCell id="v9WAkyrxxxah50e8SScM-9" value="任一烟感+另任一烟感动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="410" y="584" width="170" height="95.5" as="geometry" />
+          <mxGeometry x="505" y="584" width="200" height="95.5" as="geometry" />
         </mxCell>
         <mxCell id="v9WAkyrxxxah50e8SScM-10" value="任一温感+另任一温感动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="600" y="584" width="170" height="95.5" as="geometry" />
+          <mxGeometry x="760" y="584" width="200" height="95.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
