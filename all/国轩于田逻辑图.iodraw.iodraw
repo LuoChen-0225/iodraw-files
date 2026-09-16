@@ -61,8 +61,8 @@
         <mxCell id="v9WAkyrxxxah50e8SScM-19" value="系统三级报警" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="250" y="970" width="710" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="v9WAkyrxxxah50e8SScM-20" value="系统一级报警" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="260" y="430" width="710" height="40" as="geometry" />
+        <mxCell id="v9WAkyrxxxah50e8SScM-20" value="声光报警启动、" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="250" y="490" width="710" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
