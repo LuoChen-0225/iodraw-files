@@ -1,119 +1,9 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="8ppwDnMX_3B3TQVP2MpI">
-    <mxGraphModel dx="2566" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5297" dy="2411" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="xNUqJ6W7zeCs2HUAGR2A-55" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="120" y="1120" width="800" height="920" as="geometry" />
-        </mxCell>
-        <mxCell id="dzyMJrT3vzNhveZU4A-8-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" parent="1" source="dzyMJrT3vzNhveZU4A-8-1" target="dzyMJrT3vzNhveZU4A-8-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dzyMJrT3vzNhveZU4A-8-1" value="火情" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="440" y="1400" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="dzyMJrT3vzNhveZU4A-8-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" parent="1" source="dzyMJrT3vzNhveZU4A-8-38" target="dzyMJrT3vzNhveZU4A-8-31" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dzyMJrT3vzNhveZU4A-8-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" parent="1" source="dzyMJrT3vzNhveZU4A-8-2" target="dzyMJrT3vzNhveZU4A-8-38" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dzyMJrT3vzNhveZU4A-8-2" value="复合探测器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="440" y="1460" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="dzyMJrT3vzNhveZU4A-8-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" parent="1" source="dzyMJrT3vzNhveZU4A-8-3" target="dzyMJrT3vzNhveZU4A-8-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dzyMJrT3vzNhveZU4A-8-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" parent="1" source="dzyMJrT3vzNhveZU4A-8-3" target="dzyMJrT3vzNhveZU4A-8-11" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dzyMJrT3vzNhveZU4A-8-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" parent="1" source="dzyMJrT3vzNhveZU4A-8-3" target="dzyMJrT3vzNhveZU4A-8-12" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dzyMJrT3vzNhveZU4A-8-3" value="一级报警" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="440" y="1620" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="dzyMJrT3vzNhveZU4A-8-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" parent="1" source="dzyMJrT3vzNhveZU4A-8-5" target="dzyMJrT3vzNhveZU4A-8-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dzyMJrT3vzNhveZU4A-8-5" value="二级报警" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="440" y="1720" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="dzyMJrT3vzNhveZU4A-8-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" parent="1" source="dzyMJrT3vzNhveZU4A-8-6" target="dzyMJrT3vzNhveZU4A-8-27" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dzyMJrT3vzNhveZU4A-8-6" value="三级报警" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="440" y="1820" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="dzyMJrT3vzNhveZU4A-8-11" value="上传报警信号" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="280" y="1600" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="dzyMJrT3vzNhveZU4A-8-12" value="启动声光报警" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="280" y="1650" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="dzyMJrT3vzNhveZU4A-8-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;" parent="1" source="dzyMJrT3vzNhveZU4A-8-5" target="dzyMJrT3vzNhveZU4A-8-17" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="450" y="1690" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dzyMJrT3vzNhveZU4A-8-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;" parent="1" source="dzyMJrT3vzNhveZU4A-8-5" target="dzyMJrT3vzNhveZU4A-8-18" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440" y="1780" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dzyMJrT3vzNhveZU4A-8-17" value="上传报警信号" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="280" y="1700" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="dzyMJrT3vzNhveZU4A-8-18" value="启动声光报警" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="280" y="1750" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="dzyMJrT3vzNhveZU4A-8-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;" parent="1" source="dzyMJrT3vzNhveZU4A-8-6" target="dzyMJrT3vzNhveZU4A-8-21" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="430" y="1840" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dzyMJrT3vzNhveZU4A-8-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" parent="1" source="dzyMJrT3vzNhveZU4A-8-6" target="dzyMJrT3vzNhveZU4A-8-22" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="430" y="1840" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dzyMJrT3vzNhveZU4A-8-21" value="上传报警信号" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="280" y="1800" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="dzyMJrT3vzNhveZU4A-8-22" value="启动声光报警" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="280" y="1850" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="dzyMJrT3vzNhveZU4A-8-23" value="1、CO浓度≥240ppm&lt;div&gt;2、H&lt;sub&gt;2&lt;/sub&gt;浓度&lt;span style=&quot;background-color: initial;&quot;&gt;≥500ppm&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3、温度≥75℃&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="520" y="1560" width="160" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dzyMJrT3vzNhveZU4A-8-24" value="1、CO浓度≥600ppm且烟雾浓度≥0.4&lt;span style=&quot;font-family: 宋体; font-size: 10pt;&quot;&gt;dB/m&lt;/span&gt;&lt;div&gt;2、H&lt;sub&gt;2&lt;/sub&gt;浓度&lt;span style=&quot;background-color: initial;&quot;&gt;≥700ppm&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;且烟雾浓度≥0.4&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 宋体; font-size: 10pt;&quot;&gt;dB/m&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3、温度≥80℃&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="520" y="1660" width="230" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dzyMJrT3vzNhveZU4A-8-25" value="1、CO浓度≥240ppm且温度≥85℃&lt;div&gt;2、H&lt;sub&gt;2&lt;/sub&gt;浓度&lt;span style=&quot;background-color: initial;&quot;&gt;≥500ppm&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;且温度≥85℃&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;烟雾浓度&lt;font face=&quot;Helvetica&quot;&gt;≥0.4&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;d&lt;/font&gt;&lt;font face=&quot;Helvetica&quot;&gt;B&lt;/font&gt;&lt;font face=&quot;Helvetica&quot;&gt;/m&lt;/font&gt;&lt;font face=&quot;Z5qs_CbT4--60TSt4bTk&quot;&gt;且&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;温度≥85℃&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="520" y="1760" width="230" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dzyMJrT3vzNhveZU4A-8-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" parent="1" source="dzyMJrT3vzNhveZU4A-8-27" target="dzyMJrT3vzNhveZU4A-8-34" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dzyMJrT3vzNhveZU4A-8-27" value="启动灭火装置&lt;div style=&quot;font-size: 16px;&quot;&gt;关闭进、排风阀&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="440" y="1880" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="dzyMJrT3vzNhveZU4A-8-31" value="启动进、排风阀" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="680" y="1620" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="dzyMJrT3vzNhveZU4A-8-33" value="1、CO浓度≥240ppm&lt;div&gt;2、H&lt;sub&gt;2&lt;/sub&gt;浓度&lt;span style=&quot;background-color: initial;&quot;&gt;≥500ppm&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="760" y="1560" width="160" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dzyMJrT3vzNhveZU4A-8-34" value="反馈至BMS" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="440" y="1940" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="dzyMJrT3vzNhveZU4A-8-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" parent="1" source="dzyMJrT3vzNhveZU4A-8-38" target="dzyMJrT3vzNhveZU4A-8-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dzyMJrT3vzNhveZU4A-8-38" value="控制器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="440" y="1520" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="J5jLNppYAErgZeMRSulI-3" target="J5jLNppYAErgZeMRSulI-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -722,8 +612,121 @@
         <mxCell id="xNUqJ6W7zeCs2HUAGR2A-52" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 50px;&quot;&gt;欧标大储气溶胶&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;欧标大储带声光报警、警铃、放气指示灯、紧急启停、可燃气体探测器、进排风&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="xNUqJ6W7zeCs2HUAGR2A-54">
           <mxGeometry x="220" y="10" width="400" height="185" as="geometry" />
         </mxCell>
-        <mxCell id="xNUqJ6W7zeCs2HUAGR2A-56" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 50px;&quot;&gt;复合探测器带声光报警、进排风&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;工商储带小主机、声光报警、进排风&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="1140" width="400" height="185" as="geometry" />
+        <mxCell id="xNUqJ6W7zeCs2HUAGR2A-57" value="" style="group;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="120" y="1120" width="800" height="920" as="geometry" />
+        </mxCell>
+        <mxCell id="xNUqJ6W7zeCs2HUAGR2A-55" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="xNUqJ6W7zeCs2HUAGR2A-57">
+          <mxGeometry width="800" height="920" as="geometry" />
+        </mxCell>
+        <mxCell id="dzyMJrT3vzNhveZU4A-8-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" parent="xNUqJ6W7zeCs2HUAGR2A-57" source="dzyMJrT3vzNhveZU4A-8-1" target="dzyMJrT3vzNhveZU4A-8-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dzyMJrT3vzNhveZU4A-8-1" value="火情" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="xNUqJ6W7zeCs2HUAGR2A-57" vertex="1">
+          <mxGeometry x="320" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dzyMJrT3vzNhveZU4A-8-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" parent="xNUqJ6W7zeCs2HUAGR2A-57" source="dzyMJrT3vzNhveZU4A-8-38" target="dzyMJrT3vzNhveZU4A-8-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dzyMJrT3vzNhveZU4A-8-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" parent="xNUqJ6W7zeCs2HUAGR2A-57" source="dzyMJrT3vzNhveZU4A-8-2" target="dzyMJrT3vzNhveZU4A-8-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dzyMJrT3vzNhveZU4A-8-2" value="复合探测器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="xNUqJ6W7zeCs2HUAGR2A-57" vertex="1">
+          <mxGeometry x="320" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dzyMJrT3vzNhveZU4A-8-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" parent="xNUqJ6W7zeCs2HUAGR2A-57" source="dzyMJrT3vzNhveZU4A-8-3" target="dzyMJrT3vzNhveZU4A-8-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dzyMJrT3vzNhveZU4A-8-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" parent="xNUqJ6W7zeCs2HUAGR2A-57" source="dzyMJrT3vzNhveZU4A-8-3" target="dzyMJrT3vzNhveZU4A-8-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dzyMJrT3vzNhveZU4A-8-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" parent="xNUqJ6W7zeCs2HUAGR2A-57" source="dzyMJrT3vzNhveZU4A-8-3" target="dzyMJrT3vzNhveZU4A-8-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dzyMJrT3vzNhveZU4A-8-3" value="一级报警" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="xNUqJ6W7zeCs2HUAGR2A-57" vertex="1">
+          <mxGeometry x="320" y="500" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dzyMJrT3vzNhveZU4A-8-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" parent="xNUqJ6W7zeCs2HUAGR2A-57" source="dzyMJrT3vzNhveZU4A-8-5" target="dzyMJrT3vzNhveZU4A-8-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dzyMJrT3vzNhveZU4A-8-5" value="二级报警" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="xNUqJ6W7zeCs2HUAGR2A-57" vertex="1">
+          <mxGeometry x="320" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dzyMJrT3vzNhveZU4A-8-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" parent="xNUqJ6W7zeCs2HUAGR2A-57" source="dzyMJrT3vzNhveZU4A-8-6" target="dzyMJrT3vzNhveZU4A-8-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dzyMJrT3vzNhveZU4A-8-6" value="三级报警" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="xNUqJ6W7zeCs2HUAGR2A-57" vertex="1">
+          <mxGeometry x="320" y="700" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dzyMJrT3vzNhveZU4A-8-11" value="上传报警信号" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="xNUqJ6W7zeCs2HUAGR2A-57" vertex="1">
+          <mxGeometry x="160" y="480" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dzyMJrT3vzNhveZU4A-8-12" value="启动声光报警" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="xNUqJ6W7zeCs2HUAGR2A-57" vertex="1">
+          <mxGeometry x="160" y="530" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dzyMJrT3vzNhveZU4A-8-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;" parent="xNUqJ6W7zeCs2HUAGR2A-57" source="dzyMJrT3vzNhveZU4A-8-5" target="dzyMJrT3vzNhveZU4A-8-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="570" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dzyMJrT3vzNhveZU4A-8-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;" parent="xNUqJ6W7zeCs2HUAGR2A-57" source="dzyMJrT3vzNhveZU4A-8-5" target="dzyMJrT3vzNhveZU4A-8-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="660" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dzyMJrT3vzNhveZU4A-8-17" value="上传报警信号" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="xNUqJ6W7zeCs2HUAGR2A-57" vertex="1">
+          <mxGeometry x="160" y="580" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dzyMJrT3vzNhveZU4A-8-18" value="启动声光报警" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="xNUqJ6W7zeCs2HUAGR2A-57" vertex="1">
+          <mxGeometry x="160" y="630" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dzyMJrT3vzNhveZU4A-8-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;" parent="xNUqJ6W7zeCs2HUAGR2A-57" source="dzyMJrT3vzNhveZU4A-8-6" target="dzyMJrT3vzNhveZU4A-8-21" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="720" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dzyMJrT3vzNhveZU4A-8-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" parent="xNUqJ6W7zeCs2HUAGR2A-57" source="dzyMJrT3vzNhveZU4A-8-6" target="dzyMJrT3vzNhveZU4A-8-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="720" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dzyMJrT3vzNhveZU4A-8-21" value="上传报警信号" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="xNUqJ6W7zeCs2HUAGR2A-57" vertex="1">
+          <mxGeometry x="160" y="680" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dzyMJrT3vzNhveZU4A-8-22" value="启动声光报警" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="xNUqJ6W7zeCs2HUAGR2A-57" vertex="1">
+          <mxGeometry x="160" y="730" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dzyMJrT3vzNhveZU4A-8-23" value="1、CO浓度≥240ppm&lt;div&gt;2、H&lt;sub&gt;2&lt;/sub&gt;浓度&lt;span style=&quot;background-color: initial;&quot;&gt;≥500ppm&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3、温度≥75℃&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="xNUqJ6W7zeCs2HUAGR2A-57" vertex="1">
+          <mxGeometry x="400" y="440" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dzyMJrT3vzNhveZU4A-8-24" value="1、CO浓度≥600ppm且烟雾浓度≥0.4&lt;span style=&quot;font-family: 宋体; font-size: 10pt;&quot;&gt;dB/m&lt;/span&gt;&lt;div&gt;2、H&lt;sub&gt;2&lt;/sub&gt;浓度&lt;span style=&quot;background-color: initial;&quot;&gt;≥700ppm&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;且烟雾浓度≥0.4&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 宋体; font-size: 10pt;&quot;&gt;dB/m&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3、温度≥80℃&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="xNUqJ6W7zeCs2HUAGR2A-57" vertex="1">
+          <mxGeometry x="400" y="540" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dzyMJrT3vzNhveZU4A-8-25" value="1、CO浓度≥240ppm且温度≥85℃&lt;div&gt;2、H&lt;sub&gt;2&lt;/sub&gt;浓度&lt;span style=&quot;background-color: initial;&quot;&gt;≥500ppm&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;且温度≥85℃&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;烟雾浓度&lt;font face=&quot;Helvetica&quot;&gt;≥0.4&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;d&lt;/font&gt;&lt;font face=&quot;Helvetica&quot;&gt;B&lt;/font&gt;&lt;font face=&quot;Helvetica&quot;&gt;/m&lt;/font&gt;&lt;font face=&quot;Z5qs_CbT4--60TSt4bTk&quot;&gt;且&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;温度≥85℃&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="xNUqJ6W7zeCs2HUAGR2A-57" vertex="1">
+          <mxGeometry x="400" y="640" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dzyMJrT3vzNhveZU4A-8-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" parent="xNUqJ6W7zeCs2HUAGR2A-57" source="dzyMJrT3vzNhveZU4A-8-27" target="dzyMJrT3vzNhveZU4A-8-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dzyMJrT3vzNhveZU4A-8-27" value="启动灭火装置&lt;div style=&quot;font-size: 16px;&quot;&gt;关闭进、排风阀&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="xNUqJ6W7zeCs2HUAGR2A-57" vertex="1">
+          <mxGeometry x="320" y="760" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dzyMJrT3vzNhveZU4A-8-31" value="启动进、排风阀" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="xNUqJ6W7zeCs2HUAGR2A-57" vertex="1">
+          <mxGeometry x="560" y="500" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dzyMJrT3vzNhveZU4A-8-33" value="1、CO浓度≥240ppm&lt;div&gt;2、H&lt;sub&gt;2&lt;/sub&gt;浓度&lt;span style=&quot;background-color: initial;&quot;&gt;≥500ppm&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="xNUqJ6W7zeCs2HUAGR2A-57" vertex="1">
+          <mxGeometry x="640" y="440" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dzyMJrT3vzNhveZU4A-8-34" value="反馈至BMS" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="xNUqJ6W7zeCs2HUAGR2A-57" vertex="1">
+          <mxGeometry x="320" y="820" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dzyMJrT3vzNhveZU4A-8-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" parent="xNUqJ6W7zeCs2HUAGR2A-57" source="dzyMJrT3vzNhveZU4A-8-38" target="dzyMJrT3vzNhveZU4A-8-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dzyMJrT3vzNhveZU4A-8-38" value="控制器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="xNUqJ6W7zeCs2HUAGR2A-57" vertex="1">
+          <mxGeometry x="320" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xNUqJ6W7zeCs2HUAGR2A-56" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 50px;&quot;&gt;复合探测器带声光报警、进排风&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;工商储带小主机、声光报警、进排风&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="xNUqJ6W7zeCs2HUAGR2A-57">
+          <mxGeometry x="210" y="20" width="400" height="185" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
