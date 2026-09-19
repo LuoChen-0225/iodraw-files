@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="8ppwDnMX_3B3TQVP2MpI">
-    <mxGraphModel dx="2049" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="398" dy="-166" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -118,18 +118,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-3" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;火情&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="590" width="120" height="30" as="geometry" />
+          <mxGeometry x="970" y="440" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-4" value="感温探测器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="660" width="120" height="20" as="geometry" />
+          <mxGeometry x="890" y="510" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J5jLNppYAErgZeMRSulI-6" target="J5jLNppYAErgZeMRSulI-10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1020" y="820" as="targetPoint" />
+            <mxPoint x="1030" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-6" value="感烟探测器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="660" width="120" height="20" as="geometry" />
+          <mxGeometry x="1050" y="510" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="J5jLNppYAErgZeMRSulI-10" target="J5jLNppYAErgZeMRSulI-14">
           <mxGeometry relative="1" as="geometry" />
@@ -141,7 +141,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-10" value="一级火警" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="780" width="120" height="20" as="geometry" />
+          <mxGeometry x="970" y="630" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="J5jLNppYAErgZeMRSulI-13" target="J5jLNppYAErgZeMRSulI-15">
           <mxGeometry relative="1" as="geometry" />
@@ -150,19 +150,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-13" value="二级火警" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="860" width="120" height="20" as="geometry" />
+          <mxGeometry x="970" y="710" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-14" value="上传一级报警至BMS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="760" width="120" height="20" as="geometry" />
+          <mxGeometry x="810" y="610" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-15" value="上传二级报警至BMS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="880" width="120" height="20" as="geometry" />
+          <mxGeometry x="810" y="730" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J5jLNppYAErgZeMRSulI-17" target="J5jLNppYAErgZeMRSulI-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-17" value="气溶胶灭火装置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="670" width="120" height="30" as="geometry" />
+          <mxGeometry x="1200" y="520" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.561;entryY=0.055;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="J5jLNppYAErgZeMRSulI-3" target="J5jLNppYAErgZeMRSulI-6">
           <mxGeometry relative="1" as="geometry" />
@@ -174,31 +174,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-21" value="温度启动装置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="730" width="120" height="30" as="geometry" />
+          <mxGeometry x="1200" y="580" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J5jLNppYAErgZeMRSulI-23" target="J5jLNppYAErgZeMRSulI-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-23" value="启动气溶胶" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="790" width="120" height="30" as="geometry" />
+          <mxGeometry x="1200" y="640" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-24" value="反馈启动信号至BMS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="850" width="120" height="30" as="geometry" />
+          <mxGeometry x="1200" y="700" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-25" value="启动声光报警器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="800" width="120" height="20" as="geometry" />
+          <mxGeometry x="810" y="650" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-26" value="启动声光报警器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="840" width="120" height="20" as="geometry" />
+          <mxGeometry x="810" y="690" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-27" value="1、烟感报警&lt;div&gt;2、温感报警&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="740" width="86" height="30" as="geometry" />
+          <mxGeometry x="1030" y="590" width="86" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-28" value="烟感+温感报警" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="815" width="86" height="30" as="geometry" />
+          <mxGeometry x="1040" y="665" width="86" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-29" value="电池舱温度达到95℃" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1250" y="760" width="130" height="30" as="geometry" />
+          <mxGeometry x="1260" y="610" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
