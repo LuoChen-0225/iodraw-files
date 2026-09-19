@@ -1,0 +1,216 @@
+<mxfile host="" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="745" dy="970" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="P97LCiLaO7WPDfUP0Yi--0" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="P97LCiLaO7WPDfUP0Yi--1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="P97LCiLaO7WPDfUP0Yi--2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="P97LCiLaO7WPDfUP0Yi--50" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="火情" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="290" y="150" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P97LCiLaO7WPDfUP0Yi--0" target="P97LCiLaO7WPDfUP0Yi--9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--0" value="感烟探测器" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="220" y="260" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P97LCiLaO7WPDfUP0Yi--1" target="P97LCiLaO7WPDfUP0Yi--9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="354" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--1" value="感温探测器" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="360" y="260" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P97LCiLaO7WPDfUP0Yi--2" target="P97LCiLaO7WPDfUP0Yi--9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P97LCiLaO7WPDfUP0Yi--2" target="P97LCiLaO7WPDfUP0Yi--40" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="555" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--2" value="可燃气体探测器" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="500" y="260" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P97LCiLaO7WPDfUP0Yi--9" target="P97LCiLaO7WPDfUP0Yi--13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--9" value="火灾报警控制器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="290" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P97LCiLaO7WPDfUP0Yi--13" target="P97LCiLaO7WPDfUP0Yi--14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P97LCiLaO7WPDfUP0Yi--13" target="P97LCiLaO7WPDfUP0Yi--19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="304" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P97LCiLaO7WPDfUP0Yi--13" target="P97LCiLaO7WPDfUP0Yi--20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--13" value="一级报警" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="290" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P97LCiLaO7WPDfUP0Yi--14" target="P97LCiLaO7WPDfUP0Yi--25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P97LCiLaO7WPDfUP0Yi--14" target="P97LCiLaO7WPDfUP0Yi--26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P97LCiLaO7WPDfUP0Yi--14" target="P97LCiLaO7WPDfUP0Yi--21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P97LCiLaO7WPDfUP0Yi--14" target="P97LCiLaO7WPDfUP0Yi--66" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P97LCiLaO7WPDfUP0Yi--14" target="P97LCiLaO7WPDfUP0Yi--42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--14" value="二级报警" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="290" y="620" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--17" value="&lt;ol style=&quot;font-size: 14px;&quot;&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;烟感报警&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;温感报警&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;可燃气体报警&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="330" y="400" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--18" value="&lt;ol style=&quot;font-size: 14px;&quot;&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;烟感+烟感报警&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;温感+可燃气体报警&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;烟感+可燃气体报警&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;紧急启动按钮触发&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="330" y="520" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--19" value="上传一级报警信号" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="90" y="460" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--20" value="启动警铃" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="90" y="510" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--21" value="关闭进风、排风" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="90" y="670" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--25" value="上传一级报警信号" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="90" y="580" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--26" value="启动警铃、声光报警器" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="90" y="625" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P97LCiLaO7WPDfUP0Yi--31" target="P97LCiLaO7WPDfUP0Yi--68" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--70" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="P97LCiLaO7WPDfUP0Yi--69" vertex="1" connectable="0">
+          <mxGeometry x="-0.101" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P97LCiLaO7WPDfUP0Yi--31" target="P97LCiLaO7WPDfUP0Yi--71" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--73" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="P97LCiLaO7WPDfUP0Yi--72" vertex="1" connectable="0">
+          <mxGeometry x="-0.2529" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--31" value="按下紧急&lt;div&gt;停止按钮&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="270" y="750" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P97LCiLaO7WPDfUP0Yi--40" target="P97LCiLaO7WPDfUP0Yi--42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--44" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="P97LCiLaO7WPDfUP0Yi--43" vertex="1" connectable="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P97LCiLaO7WPDfUP0Yi--40" target="P97LCiLaO7WPDfUP0Yi--46" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--48" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="P97LCiLaO7WPDfUP0Yi--47" vertex="1" connectable="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--40" value="可燃气体浓度&lt;div&gt;达到报警阈值&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="480" y="380" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--42" value="关闭进风排风" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="495" y="510" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--46" value="启动进风、排风" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="630" y="510" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P97LCiLaO7WPDfUP0Yi--50" target="P97LCiLaO7WPDfUP0Yi--63" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--50" value="人员发现" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="60" y="260" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--51" value="风机控制按钮" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="540" y="631.32" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.161;entryY=1.014;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P97LCiLaO7WPDfUP0Yi--51" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="659.3199999999999" y="551.88" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--60" value="手动启动" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="P97LCiLaO7WPDfUP0Yi--58" vertex="1" connectable="0">
+          <mxGeometry x="-0.0388" relative="1" as="geometry">
+            <mxPoint y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.911;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P97LCiLaO7WPDfUP0Yi--51" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="579.3199999999999" y="550.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--61" value="手动关闭" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="P97LCiLaO7WPDfUP0Yi--59" vertex="1" connectable="0">
+          <mxGeometry x="0.0774" y="-4" relative="1" as="geometry">
+            <mxPoint y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P97LCiLaO7WPDfUP0Yi--63" target="P97LCiLaO7WPDfUP0Yi--9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--63" value="紧急启动按钮" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="60" y="355" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P97LCiLaO7WPDfUP0Yi--66" target="P97LCiLaO7WPDfUP0Yi--31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--66" value="进入30S倒计时" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="290" y="690" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--68" value="终止灭火程序" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="480" y="775" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P97LCiLaO7WPDfUP0Yi--71" target="P97LCiLaO7WPDfUP0Yi--74" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P97LCiLaO7WPDfUP0Yi--71" target="P97LCiLaO7WPDfUP0Yi--76" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--71" value="启动灭火装置" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="290" y="880" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--74" value="上传反馈信号" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="480" y="860" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P97LCiLaO7WPDfUP0Yi--76" value="启动放气指示灯" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="480" y="900" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
