@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="8ppwDnMX_3B3TQVP2MpI">
-    <mxGraphModel dx="3585" dy="1710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="819" dy="82" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -204,101 +204,101 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-31" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontSize=40;" vertex="1" parent="1">
-          <mxGeometry x="1970" y="570" width="240" height="80" as="geometry" />
+          <mxGeometry x="1960" y="440" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J5jLNppYAErgZeMRSulI-36" target="J5jLNppYAErgZeMRSulI-37">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1610" y="710" />
+              <mxPoint x="1600" y="580" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="J5jLNppYAErgZeMRSulI-36" target="J5jLNppYAErgZeMRSulI-38">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1930" y="710" />
+              <mxPoint x="1920" y="580" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J5jLNppYAErgZeMRSulI-36" target="J5jLNppYAErgZeMRSulI-39">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2250" y="710" />
+              <mxPoint x="2240" y="580" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J5jLNppYAErgZeMRSulI-36" target="J5jLNppYAErgZeMRSulI-40">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2570" y="710" />
+              <mxPoint x="2560" y="580" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-36" value="实时显示数据" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="710" width="1200" height="40" as="geometry" />
+          <mxGeometry x="1480" y="580" width="1200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-37" value="任一烟感动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="790" width="240" height="40" as="geometry" />
+          <mxGeometry x="1480" y="660" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-38" value="任一温感动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1810" y="790" width="240" height="40" as="geometry" />
+          <mxGeometry x="1800" y="660" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-39" value="手报动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="2130" y="790" width="240" height="40" as="geometry" />
+          <mxGeometry x="2120" y="660" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-40" value="任一气体探测器低报" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="2450" y="790" width="240" height="40" as="geometry" />
+          <mxGeometry x="2440" y="660" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J5jLNppYAErgZeMRSulI-42" target="J5jLNppYAErgZeMRSulI-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-42" value="系统一级报警" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="860" width="1200" height="40" as="geometry" />
+          <mxGeometry x="1480" y="730" width="1200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J5jLNppYAErgZeMRSulI-44" target="J5jLNppYAErgZeMRSulI-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-44" value="任一气体探测器低报+另一气体探测器高报" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1890" y="1030" width="400" height="40" as="geometry" />
+          <mxGeometry x="1880" y="900" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-45" value="任一烟感+另任一烟感动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="1030" width="280" height="40" as="geometry" />
+          <mxGeometry x="1480" y="900" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-46" value="任一温感+另任一温感动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="2410" y="1030" width="280" height="40" as="geometry" />
+          <mxGeometry x="2400" y="900" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J5jLNppYAErgZeMRSulI-48" target="J5jLNppYAErgZeMRSulI-89">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-48" value="系统二级报警" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="1120" width="1200" height="40" as="geometry" />
+          <mxGeometry x="1480" y="990" width="1200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-49" value="任一烟感+任一温感动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="1280" width="120" height="60" as="geometry" />
+          <mxGeometry x="1480" y="1150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-50" value="任一温感动作+手报动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1630" y="1280" width="120" height="60" as="geometry" />
+          <mxGeometry x="1620" y="1150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-51" value="任一烟感动作+手报动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1770" y="1280" width="120" height="60" as="geometry" />
+          <mxGeometry x="1760" y="1150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-52" value="任一气体探测器高报+手报动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1910" y="1280" width="150" height="60" as="geometry" />
+          <mxGeometry x="1900" y="1150" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-53" value="任一气体探测器高报+任一烟感动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="2077" y="1280" width="170" height="60" as="geometry" />
+          <mxGeometry x="2067" y="1150" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-54" value="任一气体探测器高报+任一温感动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="2260" y="1280" width="170" height="60" as="geometry" />
+          <mxGeometry x="2250" y="1150" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-55" value="紧急启停按钮动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="2440.5" y="1280" width="100" height="60" as="geometry" />
+          <mxGeometry x="2430.5" y="1150" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J5jLNppYAErgZeMRSulI-57" target="J5jLNppYAErgZeMRSulI-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-57" value="系统三级报警" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="1370" width="1200" height="40" as="geometry" />
+          <mxGeometry x="1480" y="1240" width="1200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="J5jLNppYAErgZeMRSulI-61" target="J5jLNppYAErgZeMRSulI-44">
           <mxGeometry relative="1" as="geometry" />
@@ -306,39 +306,39 @@
         <mxCell id="J5jLNppYAErgZeMRSulI-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J5jLNppYAErgZeMRSulI-61" target="J5jLNppYAErgZeMRSulI-45">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1630" y="970" />
+              <mxPoint x="1620" y="840" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J5jLNppYAErgZeMRSulI-61" target="J5jLNppYAErgZeMRSulI-46">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2550" y="970" />
+              <mxPoint x="2540" y="840" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-61" value="声光报警启动、启动排风系统（气体探测器参与报警时）、通过485通讯上传三级告警信号至BMS" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="930" width="1200" height="40" as="geometry" />
+          <mxGeometry x="1480" y="800" width="1200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J5jLNppYAErgZeMRSulI-63" target="J5jLNppYAErgZeMRSulI-66">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1630" y="1480" />
-              <mxPoint x="1630" y="1560" />
+              <mxPoint x="1620" y="1350" />
+              <mxPoint x="1620" y="1430" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-63" value="声光报警启动、关闭排风系统、上传一级告警信号至BMS，输出&lt;span style=&quot;background-color: initial;&quot;&gt;消防二级、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;三级消防&lt;/span&gt;干接点&lt;span style=&quot;background-color: initial;&quot;&gt;信号&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="1440" width="1200" height="40" as="geometry" />
+          <mxGeometry x="1480" y="1310" width="1200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-64" value="按下报警控制器启动按钮" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="2560" y="1280" width="130" height="60" as="geometry" />
+          <mxGeometry x="2550" y="1150" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="J5jLNppYAErgZeMRSulI-66" target="J5jLNppYAErgZeMRSulI-79">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-66" value="延时30S" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="1560.04" width="280" height="80" as="geometry" />
+          <mxGeometry x="1480" y="1430.04" width="280" height="80" as="geometry" />
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="J5jLNppYAErgZeMRSulI-69" target="J5jLNppYAErgZeMRSulI-74">
           <mxGeometry relative="1" as="geometry" />
@@ -347,7 +347,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-69" value="按程控策略释放灭火剂" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="2189.35" y="1570.04" width="160" height="60" as="geometry" />
+          <mxGeometry x="2179.35" y="1440.04" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="J5jLNppYAErgZeMRSulI-74" target="J5jLNppYAErgZeMRSulI-80">
           <mxGeometry relative="1" as="geometry" />
@@ -360,8 +360,8 @@
         <mxCell id="J5jLNppYAErgZeMRSulI-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J5jLNppYAErgZeMRSulI-74" target="J5jLNppYAErgZeMRSulI-69">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2570" y="1520" />
-              <mxPoint x="2269" y="1520" />
+              <mxPoint x="2560" y="1390" />
+              <mxPoint x="2259" y="1390" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -371,7 +371,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-74" value="灭火剂多次喷射耗尽" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="2450" y="1560.04" width="240" height="80" as="geometry" />
+          <mxGeometry x="2440" y="1430.04" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="J5jLNppYAErgZeMRSulI-79" target="J5jLNppYAErgZeMRSulI-69">
           <mxGeometry relative="1" as="geometry" />
@@ -390,71 +390,71 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-79" value="紧急停止是否按下" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1850" y="1560.04" width="240" height="80" as="geometry" />
+          <mxGeometry x="1840" y="1430.04" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-80" value="停止" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="2189.35" y="1750.04" width="160" height="60" as="geometry" />
+          <mxGeometry x="2179.35" y="1620.04" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="J5jLNppYAErgZeMRSulI-89" target="J5jLNppYAErgZeMRSulI-49">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1550" y="1240" />
+              <mxPoint x="1540" y="1110" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J5jLNppYAErgZeMRSulI-89" target="J5jLNppYAErgZeMRSulI-50">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1690" y="1240" />
+              <mxPoint x="1680" y="1110" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J5jLNppYAErgZeMRSulI-89" target="J5jLNppYAErgZeMRSulI-51">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1830" y="1240" />
+              <mxPoint x="1820" y="1110" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J5jLNppYAErgZeMRSulI-89" target="J5jLNppYAErgZeMRSulI-52">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1985" y="1240" />
+              <mxPoint x="1975" y="1110" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J5jLNppYAErgZeMRSulI-89" target="J5jLNppYAErgZeMRSulI-53">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2162" y="1240" />
+              <mxPoint x="2152" y="1110" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="J5jLNppYAErgZeMRSulI-89" target="J5jLNppYAErgZeMRSulI-54">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2345" y="1240" />
+              <mxPoint x="2335" y="1110" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J5jLNppYAErgZeMRSulI-89" target="J5jLNppYAErgZeMRSulI-55">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2490" y="1240" />
-              <mxPoint x="2490" y="1260" />
-              <mxPoint x="2491" y="1260" />
+              <mxPoint x="2480" y="1110" />
+              <mxPoint x="2480" y="1130" />
+              <mxPoint x="2481" y="1130" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J5jLNppYAErgZeMRSulI-89" target="J5jLNppYAErgZeMRSulI-64">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2625" y="1240" />
+              <mxPoint x="2615" y="1110" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-89" value="声光报警启动、启动排风系统（气体探测器参与报警时）、通过485通讯上传二级告警信号至BMS，输出&lt;span style=&quot;background-color: initial;&quot;&gt;消防二级、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;三级消防干接点信号&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="1200" width="1200" height="40" as="geometry" />
+          <mxGeometry x="1480" y="1070" width="1200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.1;entryY=0.027;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="J5jLNppYAErgZeMRSulI-37" target="J5jLNppYAErgZeMRSulI-42">
           <mxGeometry relative="1" as="geometry" />
@@ -493,7 +493,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-102" value="启动放气指示灯" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="2189.35" y="1670.04" width="160" height="40" as="geometry" />
+          <mxGeometry x="2179.35" y="1540.04" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="J5jLNppYAErgZeMRSulI-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="J5jLNppYAErgZeMRSulI-102" target="J5jLNppYAErgZeMRSulI-102">
           <mxGeometry relative="1" as="geometry" />
