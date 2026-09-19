@@ -1,316 +1,9 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="8ppwDnMX_3B3TQVP2MpI">
-    <mxGraphModel dx="6936" dy="3376" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="8370" dy="4220" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="xNUqJ6W7zeCs2HUAGR2A-124" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="200" width="1680" height="1600" as="geometry" />
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="J5jLNppYAErgZeMRSulI-31" target="J5jLNppYAErgZeMRSulI-36" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-31" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontSize=40;" parent="1" vertex="1">
-          <mxGeometry x="1960" y="440" width="240" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="J5jLNppYAErgZeMRSulI-36" target="J5jLNppYAErgZeMRSulI-37" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1600" y="580" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="J5jLNppYAErgZeMRSulI-36" target="J5jLNppYAErgZeMRSulI-38" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1920" y="580" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="J5jLNppYAErgZeMRSulI-36" target="J5jLNppYAErgZeMRSulI-39" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2240" y="580" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="J5jLNppYAErgZeMRSulI-36" target="J5jLNppYAErgZeMRSulI-40" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2560" y="580" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-36" value="实时显示数据" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1480" y="580" width="1200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-37" value="任一烟感动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1480" y="660" width="240" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-38" value="任一温感动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1800" y="660" width="240" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-39" value="手报动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="2120" y="660" width="240" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-40" value="任一气体探测器低报" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="2440" y="660" width="240" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="J5jLNppYAErgZeMRSulI-42" target="J5jLNppYAErgZeMRSulI-61" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-42" value="系统一级报警" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1480" y="730" width="1200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="J5jLNppYAErgZeMRSulI-44" target="J5jLNppYAErgZeMRSulI-48" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-44" value="任一气体探测器低报+另一气体探测器高报" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1880" y="900" width="400" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-45" value="任一烟感+另任一烟感动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1480" y="900" width="280" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-46" value="任一温感+另任一温感动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="2400" y="900" width="280" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="J5jLNppYAErgZeMRSulI-48" target="J5jLNppYAErgZeMRSulI-89" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-48" value="系统二级报警" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1480" y="990" width="1200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-49" value="任一烟感+任一温感动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1480" y="1150" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-50" value="任一温感动作+手报动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1620" y="1150" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-51" value="任一烟感动作+手报动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1760" y="1150" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-52" value="任一气体探测器高报+手报动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1900" y="1150" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-53" value="任一气体探测器高报+任一烟感动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="2067" y="1150" width="170" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-54" value="任一气体探测器高报+任一温感动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="2250" y="1150" width="170" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-55" value="紧急启停按钮动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="2430.5" y="1150" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="J5jLNppYAErgZeMRSulI-57" target="J5jLNppYAErgZeMRSulI-63" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-57" value="系统三级报警" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1480" y="1240" width="1200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="J5jLNppYAErgZeMRSulI-61" target="J5jLNppYAErgZeMRSulI-44" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="J5jLNppYAErgZeMRSulI-61" target="J5jLNppYAErgZeMRSulI-45" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1620" y="840" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="J5jLNppYAErgZeMRSulI-61" target="J5jLNppYAErgZeMRSulI-46" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2540" y="840" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-61" value="声光报警启动、启动排风系统（气体探测器参与报警时）、通过485通讯上传三级告警信号至BMS" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1480" y="800" width="1200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="J5jLNppYAErgZeMRSulI-63" target="J5jLNppYAErgZeMRSulI-66" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1620" y="1350" />
-              <mxPoint x="1620" y="1430" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-63" value="声光报警启动、关闭排风系统、上传一级告警信号至BMS，输出&lt;span style=&quot;background-color: initial;&quot;&gt;消防二级、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;三级消防&lt;/span&gt;干接点&lt;span style=&quot;background-color: initial;&quot;&gt;信号&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1480" y="1310" width="1200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-64" value="按下报警控制器启动按钮" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="2550" y="1150" width="130" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="J5jLNppYAErgZeMRSulI-66" target="J5jLNppYAErgZeMRSulI-79" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-66" value="延时30S" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="1480" y="1430.04" width="280" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="J5jLNppYAErgZeMRSulI-69" target="J5jLNppYAErgZeMRSulI-74" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="J5jLNppYAErgZeMRSulI-69" target="J5jLNppYAErgZeMRSulI-102" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-69" value="按程控策略释放灭火剂" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="2179.35" y="1440.04" width="160" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="J5jLNppYAErgZeMRSulI-74" target="J5jLNppYAErgZeMRSulI-80" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-71" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" parent="J5jLNppYAErgZeMRSulI-70" vertex="1" connectable="0">
-          <mxGeometry x="0.1415" relative="1" as="geometry">
-            <mxPoint x="-53" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="J5jLNppYAErgZeMRSulI-74" target="J5jLNppYAErgZeMRSulI-69" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2560" y="1390" />
-              <mxPoint x="2259" y="1390" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-73" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" parent="J5jLNppYAErgZeMRSulI-72" vertex="1" connectable="0">
-          <mxGeometry x="-0.0187" y="3" relative="1" as="geometry">
-            <mxPoint x="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-74" value="灭火剂多次喷射耗尽" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="2440" y="1430.04" width="240" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="J5jLNppYAErgZeMRSulI-79" target="J5jLNppYAErgZeMRSulI-69" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-76" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" parent="J5jLNppYAErgZeMRSulI-75" vertex="1" connectable="0">
-          <mxGeometry x="-0.0934" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="J5jLNppYAErgZeMRSulI-79" target="J5jLNppYAErgZeMRSulI-80" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-78" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" parent="J5jLNppYAErgZeMRSulI-77" vertex="1" connectable="0">
-          <mxGeometry x="0.3007" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-79" value="紧急停止是否按下" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1840" y="1430.04" width="240" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-80" value="停止" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="2179.35" y="1620.04" width="160" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="J5jLNppYAErgZeMRSulI-89" target="J5jLNppYAErgZeMRSulI-49" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1540" y="1110" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="J5jLNppYAErgZeMRSulI-89" target="J5jLNppYAErgZeMRSulI-50" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1680" y="1110" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="J5jLNppYAErgZeMRSulI-89" target="J5jLNppYAErgZeMRSulI-51" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1820" y="1110" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="J5jLNppYAErgZeMRSulI-89" target="J5jLNppYAErgZeMRSulI-52" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1975" y="1110" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="J5jLNppYAErgZeMRSulI-89" target="J5jLNppYAErgZeMRSulI-53" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2152" y="1110" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" source="J5jLNppYAErgZeMRSulI-89" target="J5jLNppYAErgZeMRSulI-54" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2335" y="1110" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="J5jLNppYAErgZeMRSulI-89" target="J5jLNppYAErgZeMRSulI-55" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2480" y="1110" />
-              <mxPoint x="2480" y="1130" />
-              <mxPoint x="2481" y="1130" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="J5jLNppYAErgZeMRSulI-89" target="J5jLNppYAErgZeMRSulI-64" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2615" y="1110" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-89" value="声光报警启动、启动排风系统（气体探测器参与报警时）、通过485通讯上传二级告警信号至BMS，输出&lt;span style=&quot;background-color: initial;&quot;&gt;消防二级、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;三级消防干接点信号&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1480" y="1070" width="1200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.1;entryY=0.027;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="J5jLNppYAErgZeMRSulI-37" target="J5jLNppYAErgZeMRSulI-42" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.367;entryY=0.034;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="J5jLNppYAErgZeMRSulI-38" target="J5jLNppYAErgZeMRSulI-42" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.634;entryY=0.041;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="J5jLNppYAErgZeMRSulI-39" target="J5jLNppYAErgZeMRSulI-42" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.9;entryY=0.012;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="J5jLNppYAErgZeMRSulI-40" target="J5jLNppYAErgZeMRSulI-42" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.05;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="J5jLNppYAErgZeMRSulI-49" target="J5jLNppYAErgZeMRSulI-57" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.167;entryY=0.04;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="J5jLNppYAErgZeMRSulI-50" target="J5jLNppYAErgZeMRSulI-57" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.283;entryY=0.04;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="J5jLNppYAErgZeMRSulI-51" target="J5jLNppYAErgZeMRSulI-57" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.413;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="J5jLNppYAErgZeMRSulI-52" target="J5jLNppYAErgZeMRSulI-57" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.56;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="J5jLNppYAErgZeMRSulI-53" target="J5jLNppYAErgZeMRSulI-57" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.713;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="J5jLNppYAErgZeMRSulI-54" target="J5jLNppYAErgZeMRSulI-57" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.834;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="J5jLNppYAErgZeMRSulI-55" target="J5jLNppYAErgZeMRSulI-57" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.946;entryY=-0.01;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="J5jLNppYAErgZeMRSulI-64" target="J5jLNppYAErgZeMRSulI-57" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-102" value="启动放气指示灯" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="2179.35" y="1540.04" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="J5jLNppYAErgZeMRSulI-102" target="J5jLNppYAErgZeMRSulI-102" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.116;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="J5jLNppYAErgZeMRSulI-45" target="J5jLNppYAErgZeMRSulI-48" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="J5jLNppYAErgZeMRSulI-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.883;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="J5jLNppYAErgZeMRSulI-46" target="J5jLNppYAErgZeMRSulI-48" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="xNUqJ6W7zeCs2HUAGR2A-54" value="" style="group;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-920" y="240" width="870" height="1085" as="geometry" />
         </mxCell>
@@ -740,8 +433,318 @@
         <mxCell id="xNUqJ6W7zeCs2HUAGR2A-59" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 50px;&quot;&gt;烟温仅报警，气溶胶热启动95℃&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;工商储带感烟、感温探测器、启动声光，气溶胶单子热启动&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="xNUqJ6W7zeCs2HUAGR2A-123">
           <mxGeometry x="160" width="400" height="185" as="geometry" />
         </mxCell>
-        <mxCell id="xNUqJ6W7zeCs2HUAGR2A-125" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 50px;&quot;&gt;国轩要求样式修改&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1880" y="220" width="460" height="300" as="geometry" />
+        <mxCell id="xNUqJ6W7zeCs2HUAGR2A-126" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-920" y="2450" width="1680" height="1600" as="geometry" />
+        </mxCell>
+        <mxCell id="xNUqJ6W7zeCs2HUAGR2A-124" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="xNUqJ6W7zeCs2HUAGR2A-126">
+          <mxGeometry width="1680" height="1600" as="geometry" />
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="xNUqJ6W7zeCs2HUAGR2A-126" source="J5jLNppYAErgZeMRSulI-31" target="J5jLNppYAErgZeMRSulI-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-31" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontSize=40;" parent="xNUqJ6W7zeCs2HUAGR2A-126" vertex="1">
+          <mxGeometry x="720" y="240" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="xNUqJ6W7zeCs2HUAGR2A-126" source="J5jLNppYAErgZeMRSulI-36" target="J5jLNppYAErgZeMRSulI-37" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="xNUqJ6W7zeCs2HUAGR2A-126" source="J5jLNppYAErgZeMRSulI-36" target="J5jLNppYAErgZeMRSulI-38" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="xNUqJ6W7zeCs2HUAGR2A-126" source="J5jLNppYAErgZeMRSulI-36" target="J5jLNppYAErgZeMRSulI-39" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1000" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="xNUqJ6W7zeCs2HUAGR2A-126" source="J5jLNppYAErgZeMRSulI-36" target="J5jLNppYAErgZeMRSulI-40" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1320" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-36" value="实时显示数据" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="xNUqJ6W7zeCs2HUAGR2A-126" vertex="1">
+          <mxGeometry x="240" y="380" width="1200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-37" value="任一烟感动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="xNUqJ6W7zeCs2HUAGR2A-126" vertex="1">
+          <mxGeometry x="240" y="460" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-38" value="任一温感动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="xNUqJ6W7zeCs2HUAGR2A-126" vertex="1">
+          <mxGeometry x="560" y="460" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-39" value="手报动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="xNUqJ6W7zeCs2HUAGR2A-126" vertex="1">
+          <mxGeometry x="880" y="460" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-40" value="任一气体探测器低报" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="xNUqJ6W7zeCs2HUAGR2A-126" vertex="1">
+          <mxGeometry x="1200" y="460" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="xNUqJ6W7zeCs2HUAGR2A-126" source="J5jLNppYAErgZeMRSulI-42" target="J5jLNppYAErgZeMRSulI-61" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-42" value="系统一级报警" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="xNUqJ6W7zeCs2HUAGR2A-126" vertex="1">
+          <mxGeometry x="240" y="530" width="1200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="xNUqJ6W7zeCs2HUAGR2A-126" source="J5jLNppYAErgZeMRSulI-44" target="J5jLNppYAErgZeMRSulI-48" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-44" value="任一气体探测器低报+另一气体探测器高报" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="xNUqJ6W7zeCs2HUAGR2A-126" vertex="1">
+          <mxGeometry x="640" y="700" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-45" value="任一烟感+另任一烟感动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="xNUqJ6W7zeCs2HUAGR2A-126" vertex="1">
+          <mxGeometry x="240" y="700" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-46" value="任一温感+另任一温感动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="xNUqJ6W7zeCs2HUAGR2A-126" vertex="1">
+          <mxGeometry x="1160" y="700" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="xNUqJ6W7zeCs2HUAGR2A-126" source="J5jLNppYAErgZeMRSulI-48" target="J5jLNppYAErgZeMRSulI-89" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-48" value="系统二级报警" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="xNUqJ6W7zeCs2HUAGR2A-126" vertex="1">
+          <mxGeometry x="240" y="790" width="1200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-49" value="任一烟感+任一温感动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="xNUqJ6W7zeCs2HUAGR2A-126" vertex="1">
+          <mxGeometry x="240" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-50" value="任一温感动作+手报动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="xNUqJ6W7zeCs2HUAGR2A-126" vertex="1">
+          <mxGeometry x="380" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-51" value="任一烟感动作+手报动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="xNUqJ6W7zeCs2HUAGR2A-126" vertex="1">
+          <mxGeometry x="520" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-52" value="任一气体探测器高报+手报动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="xNUqJ6W7zeCs2HUAGR2A-126" vertex="1">
+          <mxGeometry x="660" y="950" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-53" value="任一气体探测器高报+任一烟感动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="xNUqJ6W7zeCs2HUAGR2A-126" vertex="1">
+          <mxGeometry x="827" y="950" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-54" value="任一气体探测器高报+任一温感动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="xNUqJ6W7zeCs2HUAGR2A-126" vertex="1">
+          <mxGeometry x="1010" y="950" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-55" value="紧急启停按钮动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="xNUqJ6W7zeCs2HUAGR2A-126" vertex="1">
+          <mxGeometry x="1190.5" y="950" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="xNUqJ6W7zeCs2HUAGR2A-126" source="J5jLNppYAErgZeMRSulI-57" target="J5jLNppYAErgZeMRSulI-63" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-57" value="系统三级报警" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="xNUqJ6W7zeCs2HUAGR2A-126" vertex="1">
+          <mxGeometry x="240" y="1040" width="1200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="xNUqJ6W7zeCs2HUAGR2A-126" source="J5jLNppYAErgZeMRSulI-61" target="J5jLNppYAErgZeMRSulI-44" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="xNUqJ6W7zeCs2HUAGR2A-126" source="J5jLNppYAErgZeMRSulI-61" target="J5jLNppYAErgZeMRSulI-45" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="xNUqJ6W7zeCs2HUAGR2A-126" source="J5jLNppYAErgZeMRSulI-61" target="J5jLNppYAErgZeMRSulI-46" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1300" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-61" value="声光报警启动、启动排风系统（气体探测器参与报警时）、通过485通讯上传三级告警信号至BMS" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="xNUqJ6W7zeCs2HUAGR2A-126" vertex="1">
+          <mxGeometry x="240" y="600" width="1200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="xNUqJ6W7zeCs2HUAGR2A-126" source="J5jLNppYAErgZeMRSulI-63" target="J5jLNppYAErgZeMRSulI-66" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="1150" />
+              <mxPoint x="380" y="1230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-63" value="声光报警启动、关闭排风系统、上传一级告警信号至BMS，输出&lt;span style=&quot;background-color: initial;&quot;&gt;消防二级、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;三级消防&lt;/span&gt;干接点&lt;span style=&quot;background-color: initial;&quot;&gt;信号&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="xNUqJ6W7zeCs2HUAGR2A-126" vertex="1">
+          <mxGeometry x="240" y="1110" width="1200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-64" value="按下报警控制器启动按钮" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="xNUqJ6W7zeCs2HUAGR2A-126" vertex="1">
+          <mxGeometry x="1310" y="950" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="xNUqJ6W7zeCs2HUAGR2A-126" source="J5jLNppYAErgZeMRSulI-66" target="J5jLNppYAErgZeMRSulI-79" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-66" value="延时30S" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" parent="xNUqJ6W7zeCs2HUAGR2A-126" vertex="1">
+          <mxGeometry x="240" y="1230.04" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="xNUqJ6W7zeCs2HUAGR2A-126" source="J5jLNppYAErgZeMRSulI-69" target="J5jLNppYAErgZeMRSulI-74" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="xNUqJ6W7zeCs2HUAGR2A-126" source="J5jLNppYAErgZeMRSulI-69" target="J5jLNppYAErgZeMRSulI-102" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-69" value="按程控策略释放灭火剂" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="xNUqJ6W7zeCs2HUAGR2A-126" vertex="1">
+          <mxGeometry x="939.3499999999999" y="1240.04" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="xNUqJ6W7zeCs2HUAGR2A-126" source="J5jLNppYAErgZeMRSulI-74" target="J5jLNppYAErgZeMRSulI-80" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-71" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" parent="J5jLNppYAErgZeMRSulI-70" vertex="1" connectable="0">
+          <mxGeometry x="0.1415" relative="1" as="geometry">
+            <mxPoint x="-53" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="xNUqJ6W7zeCs2HUAGR2A-126" source="J5jLNppYAErgZeMRSulI-74" target="J5jLNppYAErgZeMRSulI-69" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1320" y="1190" />
+              <mxPoint x="1019" y="1190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-73" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" parent="J5jLNppYAErgZeMRSulI-72" vertex="1" connectable="0">
+          <mxGeometry x="-0.0187" y="3" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-74" value="灭火剂多次喷射耗尽" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;" parent="xNUqJ6W7zeCs2HUAGR2A-126" vertex="1">
+          <mxGeometry x="1200" y="1230.04" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="xNUqJ6W7zeCs2HUAGR2A-126" source="J5jLNppYAErgZeMRSulI-79" target="J5jLNppYAErgZeMRSulI-69" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-76" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" parent="J5jLNppYAErgZeMRSulI-75" vertex="1" connectable="0">
+          <mxGeometry x="-0.0934" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="xNUqJ6W7zeCs2HUAGR2A-126" source="J5jLNppYAErgZeMRSulI-79" target="J5jLNppYAErgZeMRSulI-80" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-78" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" parent="J5jLNppYAErgZeMRSulI-77" vertex="1" connectable="0">
+          <mxGeometry x="0.3007" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-79" value="紧急停止是否按下" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;" parent="xNUqJ6W7zeCs2HUAGR2A-126" vertex="1">
+          <mxGeometry x="600" y="1230.04" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-80" value="停止" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="xNUqJ6W7zeCs2HUAGR2A-126" vertex="1">
+          <mxGeometry x="939.3499999999999" y="1420.04" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="xNUqJ6W7zeCs2HUAGR2A-126" source="J5jLNppYAErgZeMRSulI-89" target="J5jLNppYAErgZeMRSulI-49" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="xNUqJ6W7zeCs2HUAGR2A-126" source="J5jLNppYAErgZeMRSulI-89" target="J5jLNppYAErgZeMRSulI-50" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="xNUqJ6W7zeCs2HUAGR2A-126" source="J5jLNppYAErgZeMRSulI-89" target="J5jLNppYAErgZeMRSulI-51" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="xNUqJ6W7zeCs2HUAGR2A-126" source="J5jLNppYAErgZeMRSulI-89" target="J5jLNppYAErgZeMRSulI-52" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="735" y="910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="xNUqJ6W7zeCs2HUAGR2A-126" source="J5jLNppYAErgZeMRSulI-89" target="J5jLNppYAErgZeMRSulI-53" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="912" y="910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="xNUqJ6W7zeCs2HUAGR2A-126" source="J5jLNppYAErgZeMRSulI-89" target="J5jLNppYAErgZeMRSulI-54" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1095" y="910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="xNUqJ6W7zeCs2HUAGR2A-126" source="J5jLNppYAErgZeMRSulI-89" target="J5jLNppYAErgZeMRSulI-55" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1240" y="910" />
+              <mxPoint x="1240" y="930" />
+              <mxPoint x="1241" y="930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="xNUqJ6W7zeCs2HUAGR2A-126" source="J5jLNppYAErgZeMRSulI-89" target="J5jLNppYAErgZeMRSulI-64" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1375" y="910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-89" value="声光报警启动、启动排风系统（气体探测器参与报警时）、通过485通讯上传二级告警信号至BMS，输出&lt;span style=&quot;background-color: initial;&quot;&gt;消防二级、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;三级消防干接点信号&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="xNUqJ6W7zeCs2HUAGR2A-126" vertex="1">
+          <mxGeometry x="240" y="870" width="1200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.1;entryY=0.027;entryDx=0;entryDy=0;entryPerimeter=0;" parent="xNUqJ6W7zeCs2HUAGR2A-126" source="J5jLNppYAErgZeMRSulI-37" target="J5jLNppYAErgZeMRSulI-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.367;entryY=0.034;entryDx=0;entryDy=0;entryPerimeter=0;" parent="xNUqJ6W7zeCs2HUAGR2A-126" source="J5jLNppYAErgZeMRSulI-38" target="J5jLNppYAErgZeMRSulI-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.634;entryY=0.041;entryDx=0;entryDy=0;entryPerimeter=0;" parent="xNUqJ6W7zeCs2HUAGR2A-126" source="J5jLNppYAErgZeMRSulI-39" target="J5jLNppYAErgZeMRSulI-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.9;entryY=0.012;entryDx=0;entryDy=0;entryPerimeter=0;" parent="xNUqJ6W7zeCs2HUAGR2A-126" source="J5jLNppYAErgZeMRSulI-40" target="J5jLNppYAErgZeMRSulI-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.05;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" parent="xNUqJ6W7zeCs2HUAGR2A-126" source="J5jLNppYAErgZeMRSulI-49" target="J5jLNppYAErgZeMRSulI-57" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.167;entryY=0.04;entryDx=0;entryDy=0;entryPerimeter=0;" parent="xNUqJ6W7zeCs2HUAGR2A-126" source="J5jLNppYAErgZeMRSulI-50" target="J5jLNppYAErgZeMRSulI-57" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.283;entryY=0.04;entryDx=0;entryDy=0;entryPerimeter=0;" parent="xNUqJ6W7zeCs2HUAGR2A-126" source="J5jLNppYAErgZeMRSulI-51" target="J5jLNppYAErgZeMRSulI-57" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.413;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="xNUqJ6W7zeCs2HUAGR2A-126" source="J5jLNppYAErgZeMRSulI-52" target="J5jLNppYAErgZeMRSulI-57" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.56;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="xNUqJ6W7zeCs2HUAGR2A-126" source="J5jLNppYAErgZeMRSulI-53" target="J5jLNppYAErgZeMRSulI-57" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.713;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="xNUqJ6W7zeCs2HUAGR2A-126" source="J5jLNppYAErgZeMRSulI-54" target="J5jLNppYAErgZeMRSulI-57" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.834;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" parent="xNUqJ6W7zeCs2HUAGR2A-126" source="J5jLNppYAErgZeMRSulI-55" target="J5jLNppYAErgZeMRSulI-57" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.946;entryY=-0.01;entryDx=0;entryDy=0;entryPerimeter=0;" parent="xNUqJ6W7zeCs2HUAGR2A-126" source="J5jLNppYAErgZeMRSulI-64" target="J5jLNppYAErgZeMRSulI-57" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-102" value="启动放气指示灯" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="xNUqJ6W7zeCs2HUAGR2A-126" vertex="1">
+          <mxGeometry x="939.3499999999999" y="1340.04" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="xNUqJ6W7zeCs2HUAGR2A-126" source="J5jLNppYAErgZeMRSulI-102" target="J5jLNppYAErgZeMRSulI-102" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.116;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;" parent="xNUqJ6W7zeCs2HUAGR2A-126" source="J5jLNppYAErgZeMRSulI-45" target="J5jLNppYAErgZeMRSulI-48" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J5jLNppYAErgZeMRSulI-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.883;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" parent="xNUqJ6W7zeCs2HUAGR2A-126" source="J5jLNppYAErgZeMRSulI-46" target="J5jLNppYAErgZeMRSulI-48" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xNUqJ6W7zeCs2HUAGR2A-125" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 50px;&quot;&gt;国轩要求样式修改&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="xNUqJ6W7zeCs2HUAGR2A-126">
+          <mxGeometry x="640" y="20" width="460" height="300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
