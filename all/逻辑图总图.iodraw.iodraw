@@ -713,7 +713,7 @@
         <mxCell id="J5jLNppYAErgZeMRSulI-165" value="启动放气指示灯" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-360" y="1210" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xNUqJ6W7zeCs2HUAGR2A-52" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 50px;&quot;&gt;欧标大储气溶胶&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;欧标大储带声光报警、警铃、放气指示灯、紧急启停、可燃气体探测器、进排风&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="xNUqJ6W7zeCs2HUAGR2A-52" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 50px;&quot;&gt;欧标大储气溶胶&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;欧标大储带声光报警、警铃、放气指示灯、紧急启停、可燃气体探测器、进排风&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-970" y="350" width="360" height="120" as="geometry" />
         </mxCell>
       </root>
