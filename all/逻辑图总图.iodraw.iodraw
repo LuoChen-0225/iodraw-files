@@ -926,7 +926,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rwT1dR8iicSLAWKV1Rnb-369" value="紧急启动按钮" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="rwT1dR8iicSLAWKV1Rnb-316">
-          <mxGeometry x="220" y="480" width="120" height="30" as="geometry" />
+          <mxGeometry x="200" y="480" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rwT1dR8iicSLAWKV1Rnb-370" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="rwT1dR8iicSLAWKV1Rnb-316" source="rwT1dR8iicSLAWKV1Rnb-371" target="rwT1dR8iicSLAWKV1Rnb-353">
           <mxGeometry relative="1" as="geometry" />
