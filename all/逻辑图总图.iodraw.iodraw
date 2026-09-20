@@ -746,7 +746,7 @@
         <mxCell id="xNUqJ6W7zeCs2HUAGR2A-125" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 50px;&quot;&gt;国轩要求样式修改&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="xNUqJ6W7zeCs2HUAGR2A-126" vertex="1">
           <mxGeometry x="640" y="20" width="460" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="rwT1dR8iicSLAWKV1Rnb-316" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1" connectable="0">
+        <mxCell id="rwT1dR8iicSLAWKV1Rnb-316" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=17;" parent="1" vertex="1" connectable="0">
           <mxGeometry y="240" width="870" height="1085" as="geometry" />
         </mxCell>
         <mxCell id="rwT1dR8iicSLAWKV1Rnb-317" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="rwT1dR8iicSLAWKV1Rnb-316" vertex="1">
@@ -764,7 +764,7 @@
         <mxCell id="rwT1dR8iicSLAWKV1Rnb-321" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="rwT1dR8iicSLAWKV1Rnb-316" source="rwT1dR8iicSLAWKV1Rnb-322" target="rwT1dR8iicSLAWKV1Rnb-362" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rwT1dR8iicSLAWKV1Rnb-322" value="火情" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="rwT1dR8iicSLAWKV1Rnb-316" vertex="1">
+        <mxCell id="rwT1dR8iicSLAWKV1Rnb-322" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;火情&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="rwT1dR8iicSLAWKV1Rnb-316" vertex="1">
           <mxGeometry x="360" y="235" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rwT1dR8iicSLAWKV1Rnb-323" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="rwT1dR8iicSLAWKV1Rnb-316" source="rwT1dR8iicSLAWKV1Rnb-324" target="rwT1dR8iicSLAWKV1Rnb-331" edge="1">
