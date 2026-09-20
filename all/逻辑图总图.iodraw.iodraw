@@ -747,9 +747,9 @@
           <mxGeometry x="640" y="20" width="460" height="300" as="geometry" />
         </mxCell>
         <mxCell id="rwT1dR8iicSLAWKV1Rnb-316" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="418" y="465" width="870" height="1085" as="geometry" />
+          <mxGeometry y="240" width="870" height="1085" as="geometry" />
         </mxCell>
-        <mxCell id="rwT1dR8iicSLAWKV1Rnb-317" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="rwT1dR8iicSLAWKV1Rnb-316">
+        <mxCell id="rwT1dR8iicSLAWKV1Rnb-317" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="rwT1dR8iicSLAWKV1Rnb-316">
           <mxGeometry width="870" height="1085" as="geometry" />
         </mxCell>
         <mxCell id="rwT1dR8iicSLAWKV1Rnb-318" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="rwT1dR8iicSLAWKV1Rnb-316" source="rwT1dR8iicSLAWKV1Rnb-322" target="rwT1dR8iicSLAWKV1Rnb-324">
@@ -902,7 +902,7 @@
         <mxCell id="rwT1dR8iicSLAWKV1Rnb-361" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="rwT1dR8iicSLAWKV1Rnb-316" source="rwT1dR8iicSLAWKV1Rnb-362" target="rwT1dR8iicSLAWKV1Rnb-369">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rwT1dR8iicSLAWKV1Rnb-362" value="人员发现" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="rwT1dR8iicSLAWKV1Rnb-316">
+        <mxCell id="rwT1dR8iicSLAWKV1Rnb-362" value="人员发现" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="rwT1dR8iicSLAWKV1Rnb-316">
           <mxGeometry x="130" y="345" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rwT1dR8iicSLAWKV1Rnb-363" value="风机控制按钮" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="rwT1dR8iicSLAWKV1Rnb-316">
@@ -931,7 +931,7 @@
         <mxCell id="rwT1dR8iicSLAWKV1Rnb-368" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="rwT1dR8iicSLAWKV1Rnb-316" source="rwT1dR8iicSLAWKV1Rnb-369" target="rwT1dR8iicSLAWKV1Rnb-331">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rwT1dR8iicSLAWKV1Rnb-369" value="紧急启动按钮" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="rwT1dR8iicSLAWKV1Rnb-316">
+        <mxCell id="rwT1dR8iicSLAWKV1Rnb-369" value="紧急启动按钮" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="rwT1dR8iicSLAWKV1Rnb-316">
           <mxGeometry x="130" y="440" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rwT1dR8iicSLAWKV1Rnb-370" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="rwT1dR8iicSLAWKV1Rnb-316" source="rwT1dR8iicSLAWKV1Rnb-371" target="rwT1dR8iicSLAWKV1Rnb-353">
@@ -958,7 +958,7 @@
         <mxCell id="rwT1dR8iicSLAWKV1Rnb-377" value="启动放气指示灯" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="rwT1dR8iicSLAWKV1Rnb-316">
           <mxGeometry x="550" y="985" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rwT1dR8iicSLAWKV1Rnb-378" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 50px;&quot;&gt;欧标大储气溶胶&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;欧标大储带声光报警、警铃、放气指示灯、紧急启停、可燃气体探测器、进排风&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="rwT1dR8iicSLAWKV1Rnb-316">
+        <mxCell id="rwT1dR8iicSLAWKV1Rnb-378" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 50px;&quot;&gt;欧标大储气溶胶&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;欧标大储带声光报警、警铃、放气指示灯、紧急启停、可燃气体探测器、进排风&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="rwT1dR8iicSLAWKV1Rnb-316">
           <mxGeometry x="220" y="10" width="400" height="185" as="geometry" />
         </mxCell>
       </root>
