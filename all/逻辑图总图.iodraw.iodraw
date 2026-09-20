@@ -852,7 +852,7 @@
         <mxCell id="rwT1dR8iicSLAWKV1Rnb-347" value="上传一级报警信号" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="rwT1dR8iicSLAWKV1Rnb-316">
           <mxGeometry x="160" y="665" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rwT1dR8iicSLAWKV1Rnb-348" value="启动警铃、声光报警器" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="rwT1dR8iicSLAWKV1Rnb-316">
+        <mxCell id="rwT1dR8iicSLAWKV1Rnb-348" value="启动声光报警器" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="rwT1dR8iicSLAWKV1Rnb-316">
           <mxGeometry x="160" y="710" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rwT1dR8iicSLAWKV1Rnb-349" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="rwT1dR8iicSLAWKV1Rnb-316" source="rwT1dR8iicSLAWKV1Rnb-353" target="rwT1dR8iicSLAWKV1Rnb-372">
