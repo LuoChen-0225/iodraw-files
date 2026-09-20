@@ -899,8 +899,11 @@
         <mxCell id="rwT1dR8iicSLAWKV1Rnb-360" value="启动进风、排风" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="rwT1dR8iicSLAWKV1Rnb-316">
           <mxGeometry x="700" y="595" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="rwT1dR8iicSLAWKV1Rnb-385" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="rwT1dR8iicSLAWKV1Rnb-316" source="rwT1dR8iicSLAWKV1Rnb-362" target="rwT1dR8iicSLAWKV1Rnb-379">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rwT1dR8iicSLAWKV1Rnb-362" value="人员发现" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="rwT1dR8iicSLAWKV1Rnb-316">
-          <mxGeometry x="130" y="345" width="120" height="30" as="geometry" />
+          <mxGeometry x="120" y="345" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rwT1dR8iicSLAWKV1Rnb-363" value="风机控制按钮" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="rwT1dR8iicSLAWKV1Rnb-316">
           <mxGeometry x="610" y="716.32" width="160" height="40" as="geometry" />
