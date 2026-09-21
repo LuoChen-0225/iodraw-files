@@ -977,7 +977,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B_a1jyovuI-OZSEroB3d-7" value="火情" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="3483" y="921" width="120" height="40" as="geometry" />
+          <mxGeometry x="3478" y="1000" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B_a1jyovuI-OZSEroB3d-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1" source="B_a1jyovuI-OZSEroB3d-14" target="B_a1jyovuI-OZSEroB3d-43">
           <mxGeometry relative="1" as="geometry">
@@ -993,7 +993,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B_a1jyovuI-OZSEroB3d-26" value="二级报警" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="3273" y="1398" width="120" height="40" as="geometry" />
+          <mxGeometry x="3260" y="1280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B_a1jyovuI-OZSEroB3d-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1" source="B_a1jyovuI-OZSEroB3d-43" target="B_a1jyovuI-OZSEroB3d-44">
           <mxGeometry relative="1" as="geometry" />
