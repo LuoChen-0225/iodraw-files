@@ -993,14 +993,14 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B_a1jyovuI-OZSEroB3d-26" value="二级报警" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="3260" y="1280" width="120" height="40" as="geometry" />
+          <mxGeometry x="3260" y="1310" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B_a1jyovuI-OZSEroB3d-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1" source="B_a1jyovuI-OZSEroB3d-43" target="B_a1jyovuI-OZSEroB3d-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B_a1jyovuI-OZSEroB3d-40" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=1;points=[];fontSize=16;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" connectable="0" parent="B_a1jyovuI-OZSEroB3d-39">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="B_a1jyovuI-OZSEroB3d-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1" source="B_a1jyovuI-OZSEroB3d-43" target="B_a1jyovuI-OZSEroB3d-45">
@@ -1008,24 +1008,24 @@
         </mxCell>
         <mxCell id="B_a1jyovuI-OZSEroB3d-42" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=1;points=[];fontSize=16;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" connectable="0" parent="B_a1jyovuI-OZSEroB3d-41">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="29" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="B_a1jyovuI-OZSEroB3d-43" value="可燃气体浓度&lt;div&gt;达到报警阈值&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="3463" y="1158" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="B_a1jyovuI-OZSEroB3d-44" value="关闭进风排风" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="3478" y="1280" width="120" height="40" as="geometry" />
+          <mxGeometry x="3478" y="1310" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B_a1jyovuI-OZSEroB3d-45" value="启动进风、排风" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="3613" y="1280" width="120" height="40" as="geometry" />
+          <mxGeometry x="3613" y="1310" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B_a1jyovuI-OZSEroB3d-48" value="风机控制按钮" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="3523" y="1409.3200000000002" width="160" height="40" as="geometry" />
+          <mxGeometry x="3523" y="1439.3200000000002" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B_a1jyovuI-OZSEroB3d-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.161;entryY=1.014;entryDx=0;entryDy=0;entryPerimeter=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1" source="B_a1jyovuI-OZSEroB3d-48">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3642.3199999999997" y="1329.88" as="targetPoint" />
+            <mxPoint x="3642.3199999999997" y="1359.88" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="B_a1jyovuI-OZSEroB3d-50" value="手动启动" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=1;points=[];fontSize=16;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" connectable="0" parent="B_a1jyovuI-OZSEroB3d-49">
@@ -1035,7 +1035,7 @@
         </mxCell>
         <mxCell id="B_a1jyovuI-OZSEroB3d-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.911;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1" source="B_a1jyovuI-OZSEroB3d-48">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3562.3199999999997" y="1328" as="targetPoint" />
+            <mxPoint x="3562.3199999999997" y="1358" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="B_a1jyovuI-OZSEroB3d-52" value="手动关闭" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=1;points=[];fontSize=16;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" connectable="0" parent="B_a1jyovuI-OZSEroB3d-51">
