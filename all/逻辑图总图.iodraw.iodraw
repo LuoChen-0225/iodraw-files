@@ -989,7 +989,7 @@
         <mxCell id="B_a1jyovuI-OZSEroB3d-14" value="可燃气体探测器" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="3478" y="1084" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="B_a1jyovuI-OZSEroB3d-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1" source="B_a1jyovuI-OZSEroB3d-26" target="B_a1jyovuI-OZSEroB3d-44">
+        <mxCell id="B_a1jyovuI-OZSEroB3d-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1" source="B_a1jyovuI-OZSEroB3d-26" target="B_a1jyovuI-OZSEroB3d-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B_a1jyovuI-OZSEroB3d-26" value="二级报警" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
@@ -1015,10 +1015,10 @@
           <mxGeometry x="3463" y="1158" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="B_a1jyovuI-OZSEroB3d-44" value="关闭进风排风" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="3478" y="1288" width="120" height="40" as="geometry" />
+          <mxGeometry x="3478" y="1280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B_a1jyovuI-OZSEroB3d-45" value="启动进风、排风" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="3613" y="1288" width="120" height="40" as="geometry" />
+          <mxGeometry x="3613" y="1280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B_a1jyovuI-OZSEroB3d-48" value="风机控制按钮" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="3523" y="1409.3200000000002" width="160" height="40" as="geometry" />
