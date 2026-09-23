@@ -1192,6 +1192,9 @@
         <mxCell id="Qf6fgH5QzF6ZgX4-JLcY-66" value="紧急启停按钮&lt;div&gt;Emergency Start/Stop Button&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="2080" y="630" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Qf6fgH5QzF6ZgX4-JLcY-69" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1945" y="441" width="1032" height="999" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
