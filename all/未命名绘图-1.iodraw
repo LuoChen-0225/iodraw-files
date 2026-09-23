@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="8ppwDnMX_3B3TQVP2MpI">
-    <mxGraphModel dx="2566" dy="1604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2019" dy="1282" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1175,7 +1175,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Qf6fgH5QzF6ZgX4-JLcY-61" value="启动灭火装置&lt;div&gt;&lt;div&gt;Activate Fire&lt;/div&gt;&lt;div&gt;Extinguishing System&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="2300" y="1340" width="120" height="30" as="geometry" />
+          <mxGeometry x="2300" y="1340" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Qf6fgH5QzF6ZgX4-JLcY-62" value="上传反馈信号&lt;div&gt;Upload Feedback Signal&lt;/div&gt;" style="whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="2490" y="1320" width="120" height="30" as="geometry" />
