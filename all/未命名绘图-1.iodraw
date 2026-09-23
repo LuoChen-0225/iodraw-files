@@ -1191,7 +1191,7 @@
         <mxCell id="Qf6fgH5QzF6ZgX4-JLcY-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Qf6fgH5QzF6ZgX4-JLcY-66" target="Qf6fgH5QzF6ZgX4-JLcY-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Qf6fgH5QzF6ZgX4-JLcY-66" value="紧急启动按钮" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
+        <mxCell id="Qf6fgH5QzF6ZgX4-JLcY-66" value="紧急启动按钮&lt;div&gt;Emergency Start Button&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="2140" y="680" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
