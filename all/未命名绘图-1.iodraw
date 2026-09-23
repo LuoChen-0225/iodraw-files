@@ -1129,7 +1129,7 @@
         <mxCell id="Qf6fgH5QzF6ZgX4-JLcY-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qf6fgH5QzF6ZgX4-JLcY-48" target="Qf6fgH5QzF6ZgX4-JLcY-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Qf6fgH5QzF6ZgX4-JLcY-48" value="&lt;font face=&quot;Helvetica&quot;&gt;人员发现&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px; text-align: start;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;m0yQXyVqhyk72MmBDcl9&quot;&gt;Manually discovered&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
+        <mxCell id="Qf6fgH5QzF6ZgX4-JLcY-48" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;人员发现&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;m0yQXyVqhyk72MmBDcl9&quot;&gt;Manually discovered&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="2060" y="615" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Qf6fgH5QzF6ZgX4-JLcY-49" value="风机控制按钮" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
