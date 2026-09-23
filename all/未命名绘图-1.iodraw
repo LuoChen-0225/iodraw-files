@@ -128,7 +128,7 @@
             <mxPoint y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qf6fgH5QzF6ZgX4-JLcY-38" value="按下紧急&lt;div&gt;停止按钮&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px; text-align: left;&quot;&gt;Emergency Stop Button&amp;nbsp;Triggered&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
+        <mxCell id="Qf6fgH5QzF6ZgX4-JLcY-38" value="按下紧急&lt;div&gt;停止按钮&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px; text-align: left;&quot;&gt;Emergency Stop&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px; text-align: left;&quot;&gt;Button&amp;nbsp;Triggered&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="2250" y="1195" width="220" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Qf6fgH5QzF6ZgX4-JLcY-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1" target="Qf6fgH5QzF6ZgX4-JLcY-44">
