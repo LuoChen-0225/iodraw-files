@@ -1088,7 +1088,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XJq_n8rR43HG1chkhzFr-14" value="可燃气体探测器" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
+        <mxCell id="XJq_n8rR43HG1chkhzFr-14" value="复合探测器探测器" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="1570" y="585" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XJq_n8rR43HG1chkhzFr-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1" source="XJq_n8rR43HG1chkhzFr-16" target="XJq_n8rR43HG1chkhzFr-20">
@@ -1187,7 +1187,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XJq_n8rR43HG1chkhzFr-43" value="可燃气体浓度&lt;div&gt;达到报警阈值&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
+        <mxCell id="XJq_n8rR43HG1chkhzFr-43" value="&lt;span style=&quot;font-family: 宋体; letter-spacing: 0pt; font-size: 12pt;&quot;&gt;CO浓度≥240ppm或H2浓度≥500ppm&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="1550" y="705" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XJq_n8rR43HG1chkhzFr-44" value="关闭进风排风" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
