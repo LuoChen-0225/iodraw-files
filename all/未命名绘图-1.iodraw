@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="8ppwDnMX_3B3TQVP2MpI">
-    <mxGraphModel dx="1522" dy="990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2347" dy="1475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1045,14 +1045,14 @@
         </mxCell>
         <mxCell id="Qf6fgH5QzF6ZgX4-JLcY-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1" source="Qf6fgH5QzF6ZgX4-JLcY-26" target="Qf6fgH5QzF6ZgX4-JLcY-57">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2470" y="1105" as="targetPoint" />
+            <mxPoint x="2470" y="1135" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Qf6fgH5QzF6ZgX4-JLcY-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1" source="Qf6fgH5QzF6ZgX4-JLcY-26" target="Qf6fgH5QzF6ZgX4-JLcY-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Qf6fgH5QzF6ZgX4-JLcY-26" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;二级报警&lt;/font&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Level 2 Alarm/&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: start;&quot;&gt;Combined&lt;/span&gt;&amp;nbsp;Alarm&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="2300" y="1050" width="120" height="40" as="geometry" />
+          <mxGeometry x="2300" y="1080" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Qf6fgH5QzF6ZgX4-JLcY-27" value="1.烟感报警&#xa;1.Smoke Alarm&#xa;2.温感报警&#xa;2.Heat Alarm&#xa;3.可燃气体报警&#xa;3.Combustible Gas Alarm&#xa;4.手动报警按钮触发&#xa;4.Manual Call Point Triggered" style="text;strokeColor=none;fillColor=none;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=14;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="2370" y="740" width="190" height="150" as="geometry" />
@@ -1067,13 +1067,13 @@
           <mxGeometry x="2100" y="940" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Qf6fgH5QzF6ZgX4-JLcY-31" value="关闭进风、排风&lt;div&gt;&lt;div&gt;&amp;nbsp;Stop Exhaust &amp;amp;&lt;/div&gt;&lt;div&gt;Supply Fans&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="2100" y="1100" width="130" height="30" as="geometry" />
+          <mxGeometry x="2100" y="1130" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Qf6fgH5QzF6ZgX4-JLcY-32" value="上传二级报警信号&lt;div&gt;Upload Level 2 Alarm&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="2100" y="1010" width="130" height="30" as="geometry" />
+          <mxGeometry x="2100" y="1040" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Qf6fgH5QzF6ZgX4-JLcY-33" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;启动警铃、声光报警器&lt;/font&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;bGwtA2S2_A13m-U-mZn2&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Activate Alarm Bell、&lt;/span&gt;&lt;span style=&quot;text-align: start; background-color: initial;&quot;&gt;Horn-Strobe&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="2100" y="1050" width="130" height="30" as="geometry" />
+          <mxGeometry x="2100" y="1080" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Qf6fgH5QzF6ZgX4-JLcY-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1" source="Qf6fgH5QzF6ZgX4-JLcY-38" target="Qf6fgH5QzF6ZgX4-JLcY-58">
           <mxGeometry relative="1" as="geometry" />
@@ -1092,7 +1092,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Qf6fgH5QzF6ZgX4-JLcY-38" value="按下紧急&lt;div&gt;停止按钮&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px; text-align: left;&quot;&gt;Emergency Stop Button&amp;nbsp;Triggered&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="2280" y="1180" width="160" height="80" as="geometry" />
+          <mxGeometry x="2280" y="1210" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Qf6fgH5QzF6ZgX4-JLcY-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1" target="Qf6fgH5QzF6ZgX4-JLcY-44">
           <mxGeometry relative="1" as="geometry">
@@ -1133,9 +1133,9 @@
         <mxCell id="Qf6fgH5QzF6ZgX4-JLcY-49" value="风机控制按钮&lt;div&gt;Fan Control Buttons&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="2620" y="1120" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Qf6fgH5QzF6ZgX4-JLcY-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.161;entryY=1.014;entryDx=0;entryDy=0;entryPerimeter=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1" source="Qf6fgH5QzF6ZgX4-JLcY-49">
+        <mxCell id="Qf6fgH5QzF6ZgX4-JLcY-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qf6fgH5QzF6ZgX4-JLcY-49" target="Qf6fgH5QzF6ZgX4-JLcY-45">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2739.3199999999997" y="1021.88" as="targetPoint" />
+            <mxPoint x="2739" y="1050" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Qf6fgH5QzF6ZgX4-JLcY-51" value="手动启动&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-family: m0yQXyVqhyk72MmBDcl9; font-size: 12px; text-align: start; text-wrap: wrap;&quot;&gt;Manually Start&lt;/span&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=1;points=[];fontSize=12;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" connectable="0" parent="Qf6fgH5QzF6ZgX4-JLcY-50">
@@ -1163,10 +1163,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Qf6fgH5QzF6ZgX4-JLcY-57" value="进入30S倒计时&lt;div&gt;30s Countdown&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="2300" y="1120" width="120" height="40" as="geometry" />
+          <mxGeometry x="2300" y="1150" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Qf6fgH5QzF6ZgX4-JLcY-58" value="终止灭火程序&lt;div&gt;Stop Extinguishing Process&lt;/div&gt;" style="whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="2490" y="1200" width="120" height="30" as="geometry" />
+          <mxGeometry x="2490" y="1230" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Qf6fgH5QzF6ZgX4-JLcY-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1" source="Qf6fgH5QzF6ZgX4-JLcY-61" target="Qf6fgH5QzF6ZgX4-JLcY-62">
           <mxGeometry relative="1" as="geometry" />
@@ -1175,13 +1175,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Qf6fgH5QzF6ZgX4-JLcY-61" value="启动灭火装置&lt;div&gt;&lt;div&gt;Activate Fire&lt;/div&gt;&lt;div&gt;Extinguishing System&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="2300" y="1310" width="120" height="30" as="geometry" />
+          <mxGeometry x="2300" y="1340" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Qf6fgH5QzF6ZgX4-JLcY-62" value="上传反馈信号&lt;div&gt;Upload Feedback Signal&lt;/div&gt;" style="whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="2490" y="1290" width="120" height="30" as="geometry" />
+          <mxGeometry x="2490" y="1320" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Qf6fgH5QzF6ZgX4-JLcY-63" value="启动放气指示灯&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Activate&amp;nbsp;&lt;/span&gt;Gas Releasing Sign&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="2490" y="1330" width="120" height="30" as="geometry" />
+          <mxGeometry x="2490" y="1360" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Qf6fgH5QzF6ZgX4-JLcY-64" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 50px;&quot;&gt;国标舱级全套&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;带声光报警、手报、放气指示灯、紧急启停、可燃气体探测器、进排风&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="2160" y="280" width="400" height="190" as="geometry" />
