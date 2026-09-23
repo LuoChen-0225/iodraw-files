@@ -1101,7 +1101,7 @@
         <mxCell id="Qf6fgH5QzF6ZgX4-JLcY-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1" source="Qf6fgH5QzF6ZgX4-JLcY-43" target="Qf6fgH5QzF6ZgX4-JLcY-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Qf6fgH5QzF6ZgX4-JLcY-40" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=1;points=[];fontSize=16;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" connectable="0" parent="Qf6fgH5QzF6ZgX4-JLcY-39">
+        <mxCell id="Qf6fgH5QzF6ZgX4-JLcY-40" value="否&lt;div&gt;False&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=1;points=[];fontSize=16;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" connectable="0" parent="Qf6fgH5QzF6ZgX4-JLcY-39">
           <mxGeometry relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -1114,7 +1114,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qf6fgH5QzF6ZgX4-JLcY-43" value="可燃气体浓度&lt;div&gt;达到报警阈值&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
+        <mxCell id="Qf6fgH5QzF6ZgX4-JLcY-43" value="可燃气体浓度&lt;div&gt;达到报警阈值&lt;/div&gt;&lt;div&gt;Combustible Gas Detector Alarm&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="2490" y="735" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Qf6fgH5QzF6ZgX4-JLcY-44" value="关闭进风排风&lt;div&gt;&lt;div&gt;Stop Exhaust &amp;amp;&lt;/div&gt;&lt;div&gt;Supply Fans&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
