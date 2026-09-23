@@ -1187,7 +1187,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XJq_n8rR43HG1chkhzFr-43" value="&lt;span style=&quot;font-family: 宋体; letter-spacing: 0pt; font-size: 10px;&quot;&gt;CO浓度≥240ppm或H2浓度≥500ppm&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="XJq_n8rR43HG1chkhzFr-43" value="&lt;span style=&quot;font-family: 宋体; letter-spacing: 0pt; font-size: 11px;&quot;&gt;CO浓度≥240ppm&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: 宋体; letter-spacing: 0pt; font-size: 11px;&quot;&gt;H2浓度≥500ppm&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="1550" y="705" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XJq_n8rR43HG1chkhzFr-44" value="关闭进风排风" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
