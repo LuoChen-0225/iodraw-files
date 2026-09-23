@@ -1179,7 +1179,7 @@
         <mxCell id="Qf6fgH5QzF6ZgX4-JLcY-61" value="启动灭火装置&lt;div&gt;&lt;div&gt;Activate Fire&lt;/div&gt;&lt;div&gt;Extinguishing System&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="2300" y="1235" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Qf6fgH5QzF6ZgX4-JLcY-62" value="上传反馈信号" style="whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
+        <mxCell id="Qf6fgH5QzF6ZgX4-JLcY-62" value="上传反馈信号&lt;div&gt;Upload Feedback Signal&lt;/div&gt;" style="whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="2490" y="1215" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Qf6fgH5QzF6ZgX4-JLcY-63" value="启动放气指示灯&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Activate&amp;nbsp;&lt;/span&gt;Gas Releasing Sign&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
