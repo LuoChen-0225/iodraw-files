@@ -1120,7 +1120,7 @@
         <mxCell id="Qf6fgH5QzF6ZgX4-JLcY-44" value="关闭进风排风" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="2505" y="865" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Qf6fgH5QzF6ZgX4-JLcY-45" value="启动进风、排风" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
+        <mxCell id="Qf6fgH5QzF6ZgX4-JLcY-45" value="启动进风、排风&lt;div&gt;&lt;div&gt;Start Exhaust &amp;amp;&lt;/div&gt;&lt;div&gt;Supply Fans&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="2640" y="865" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Qf6fgH5QzF6ZgX4-JLcY-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qf6fgH5QzF6ZgX4-JLcY-48" target="Qf6fgH5QzF6ZgX4-JLcY-66">
