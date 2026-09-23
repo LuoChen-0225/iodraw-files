@@ -1140,7 +1140,7 @@
             <mxPoint x="2669.3199999999997" y="906.88" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qf6fgH5QzF6ZgX4-JLcY-51" value="手动启动" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=1;points=[];fontSize=16;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" connectable="0" parent="Qf6fgH5QzF6ZgX4-JLcY-50">
+        <mxCell id="Qf6fgH5QzF6ZgX4-JLcY-51" value="手动启动&lt;div&gt;&lt;span style=&quot;font-family: m0yQXyVqhyk72MmBDcl9; font-size: 12px; text-align: start; text-wrap: wrap;&quot;&gt;Manually Start&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=1;points=[];fontSize=16;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" connectable="0" parent="Qf6fgH5QzF6ZgX4-JLcY-50">
           <mxGeometry x="-0.0388" relative="1" as="geometry">
             <mxPoint y="-2" as="offset" />
           </mxGeometry>
@@ -1150,9 +1150,9 @@
             <mxPoint x="2589.3199999999997" y="905.0000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qf6fgH5QzF6ZgX4-JLcY-53" value="手动关闭&lt;div&gt;&lt;span style=&quot;font-family: m0yQXyVqhyk72MmBDcl9; font-size: 12px; text-align: start; text-wrap: wrap;&quot;&gt;Manually Stop&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=1;points=[];fontSize=16;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" connectable="0" parent="Qf6fgH5QzF6ZgX4-JLcY-52">
+        <mxCell id="Qf6fgH5QzF6ZgX4-JLcY-53" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;手动关闭&lt;/font&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-family: m0yQXyVqhyk72MmBDcl9; text-align: start; text-wrap: wrap;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Manually Stop&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=1;points=[];fontSize=16;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" connectable="0" parent="Qf6fgH5QzF6ZgX4-JLcY-52">
           <mxGeometry x="0.0774" y="-4" relative="1" as="geometry">
-            <mxPoint y="4" as="offset" />
+            <mxPoint x="-4" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Qf6fgH5QzF6ZgX4-JLcY-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qf6fgH5QzF6ZgX4-JLcY-55" target="Qf6fgH5QzF6ZgX4-JLcY-16">
